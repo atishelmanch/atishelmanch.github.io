@@ -10,8 +10,10 @@ Hello! My name is Abraham (Abe) Tishelman-Charny. I am currently finishing up my
 
 ## Public material 
 
-16 May 2022: QFT research seminar. Institute for theoretical physics, University of Munster: <br />
+**16 May 2022: QFT research seminar. Institute for theoretical physics, University of Munster:** <br /> <br />
 <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a>
+<br />
+<a href="Documents/Munster_Seminar_Minutes.md" taget="_black">Questions to the speaker after the talk</a>
 
 ## Useful links 
 
