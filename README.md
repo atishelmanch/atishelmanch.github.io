@@ -4,14 +4,14 @@
    width="250" 
    alt="Me" 
    title="Me"
-   src="Abraham_Tishelman-Charny_photo.jpg">
+   src="Documents/Abraham_Tishelman-Charny_photo.jpg">
 
 Hello! My name is Abraham (Abe) Tishelman-Charny. I am currently finishing up my PhD in experimental particle physics at Northeastern University, during which I worked on the CMS detector at the LHC. I will soon be starting a postdoctoral position at Brookhaven National Laboratory, to work on the ATLAS experiment. The purpose of this page is to store and share material related to my research. 
 
 ## Public material 
 
 16 May 2022: QFT research seminar. Institute for theoretical physics, University of Munster: <br />
-<a href="username.github.io/Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a>
+<a href="atishelmanch.github.io/Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a>
 
 ## Useful links 
 
