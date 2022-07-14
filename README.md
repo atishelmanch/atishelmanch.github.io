@@ -1,6 +1,6 @@
 # Abraham Tishelman-Charny's website 
 
-<img style="float: right; margin-left: 10px;" 
+<img style="float: right; margin-left: 20px;" 
    width="250" 
    alt="Me" 
    title="Me"
@@ -10,7 +10,18 @@ Hello! My name is Abraham (Abe) Tishelman-Charny. I am currently finishing up my
 
 ## Public material 
 
+16 May 2022: QFT research seminar. Institute for theoretical physics, University of Munster: <br />
+<a href="username.github.io/Documents/document.pdf" target="_blank">Higgs Pair Production: An experimental overview</a>
+
 ## Useful links 
 
-[Example of github pages markdown customization](https://stackoverflow.com/questions/47104807/github-pages-homepage-remove-link-at-the-top~)
-[Github pages document guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
+- [Example of github pages markdown customization](https://stackoverflow.com/questions/47104807/github-pages-homepage-remove-link-at-the-top~)
+- [Github pages document guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
+
+## Useful commands to maintain this page efficiently 
+
+```
+apt-get install git-lfs # on debian-like OS 
+yum install git-lfs # on centos-like OS 
+git lfs install --skip-smudge
+```
