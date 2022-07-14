@@ -11,9 +11,9 @@
 
 **Q:** What is the Run 2 b-tagging efficiency compared to Run 1?
 - Not sure - The numbers provided by the speaker may have been inaccurate and should be verified. 
-- In the context of the CMS boosted VBF HH->4b analysis, a novel H->bb identified named “ParticleNet” provides excellent H->bb identification:
-  - ParticleNet reference: https://arxiv.org/abs/1902.08570
-  - CMS VBF boosted HH->4b reference: https://cds.cern.ch/record/2803672/files/B2G-22-003-pas.pdf
+- In the context of the CMS boosted VBF HH->4b analysis, a novel H->bb identifier named “ParticleNet” provides excellent H->bb identification:
+  - ParticleNet reference: [ArXiv](https://arxiv.org/abs/1902.08570)
+  - CMS VBF boosted HH->4b reference: [Cern document server](https://cds.cern.ch/record/2803672/files/B2G-22-003-pas.pdf)
 
 **Q:** Why is the VBF (kappa_2V) constraint tighter than the kappa_lambda one, even though the XS is a factor of 30 smaller? 
 - Good question - not sure, to be followed up.
