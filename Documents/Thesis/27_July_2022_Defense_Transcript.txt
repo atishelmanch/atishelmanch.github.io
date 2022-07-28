@@ -1,0 +1,27 @@
+00:40:32	Toyoko Orimoto:	Sorry for the technical mishaps. The projector did a software update as Abe was talking and the projector was no working. We called the help desk and they are helping us with it now
+00:41:07	Toyoko Orimoto:	Prior to that the classroom computer wasn’t working, which is why we are using a laptop (and the sound is not optimal)
+00:52:43	Toyoko Orimoto:	I will be keeping an eye on the Zoom chat & participants, so please feel free to “raise your hand” if you have questions. Thank you
+00:59:25	Emanuela Barberis:	Hi Toyoko, maybe you can use the chat to write/repeat the questions from the audience, which are difficult to hear.
+00:59:47	Toyoko Orimoto:	Sure, I will do that!
+01:08:06	Daniel Abadjiev:	Would you be able to share audience comments in the chat or aloud?
+01:08:37	Toyoko Orimoto:	Yes, Abe repeated the question before he answered it.
+01:08:53	Daniel Abadjiev:	Oh it was the same question, thank you
+01:10:18	Toyoko Orimoto:	Yes, I will try to put the question here, but that one was a little hard to transcribe. It was about checking the uncertainties in the DNN by re-initializing the hyperparametrization and checking how the DNN differs to check the range of uncertainty
+01:12:51	Toyoko Orimoto:	Jim is asking about what Abe means by “boundaries” in this context
+01:27:33	Toyoko Orimoto:	Jim asked why we are two orders of magnitude away from the SM predicted cross section.
+01:29:48	Toyoko Orimoto:	Jim is asking what the c’s are
+01:30:46	Toyoko Orimoto:	And what dimension the c constants are (they are dimension 5, non-renormalizable)
+01:31:02	Toyoko Orimoto:	Jim is asking if there is any experimental reason to use EFTs
+01:31:46	Toyoko Orimoto:	Answer: neutrino masses give us experimental motivation for the dimension 5 operators
+01:32:03	Toyoko Orimoto:	Gabe asked whether we use all 3 years of data when optimizing the selection
+01:48:02	Toyoko Orimoto:	Jim asked what data set was used for these studies. It is 3000/fb (although there may be more data delivered by HL-LHC)
+01:49:22	Toyoko Orimoto:	Jim’s question was how the combination of the projection would be done
+01:52:11	Toyoko Orimoto:	We will first take more questions from the audience, then we’ll ask the audience to leave for a little while (during which the committee will meet with Abe), then lastly the committee will meet without Abe
+01:53:37	Toyoko Orimoto:	Gabe has a question about what is used to get the impact
+01:53:43	Toyoko Orimoto:	On slide 30
+01:58:22	Daniel Abadjiev:	It may be hiden
+01:58:28	Daniel Abadjiev:	Under more options if you are sharing screen
+01:58:34	Toyoko Orimoto:	Apologies, we cannot seem to make a breakout room. Could the other audience members leave the Zoom?
+01:58:35	Jack Li:	nice talk !
+01:58:42	Yacine Haddad:	I have to leave soon to pickup my daughter. Good luck Abe!
+01:58:43	Daniel Abadjiev:	Great job!
