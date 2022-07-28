@@ -27,5 +27,5 @@ Hello! My name is Abraham (Abe) Tishelman-Charny, and I am interested in physics
 
 ## Other
 
-- Link to CV 
+- [Link to CV](Documents/28_July_2022_Abraham_Tishelman_Charny_CV.pdf)
 - [Linkedin](https://www.linkedin.com/in/abraham-tishelman-charny-a4b977159/)
