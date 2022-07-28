@@ -1,0 +1,1398 @@
+Toyoko Orimoto: Thank you want to introduce you yeah.
+
+Toyoko Orimoto: it's just my personal.
+
+Toyoko Orimoto: hi everyone, thank you all for joining this is my first in person pieces Defense in a long time, I think you might be for a few others also so thank you for joining welcome everyone.
+
+Toyoko Orimoto: it's my pleasure to introduce Abraham to show the Attorney who's going to be defending his business today it's titled probing the X give her production in the two w goes on to photon channel at cms past, present and future.
+
+Toyoko Orimoto: He came to northeastern and.
+
+Toyoko Orimoto: With a bachelor of science degree in physics or stony brook university and in the intervening years he's accomplished a lot during this time at northeastern and he's going to be describing a little bit about his accomplishments today so let's welcome a.
+
+Toyoko Orimoto: thing i'm gonna just minimize this little bit and.
+
+Toyoko Orimoto: i'm okay i'm just going to get started so welcome everyone.
+
+Toyoko Orimoto: Thank you for coming in person, everybody and for everybody for connecting virtually so uh yeah like we have been just mentioned today i'm going to defend my.
+
+Toyoko Orimoto: thesis and talk about my research which is titled probing that needs to be a pair production in w bose bose on two photon channel it's DNS and i'll talk about the past, present and future.
+
+Toyoko Orimoto: So just to go over the outline so first i'll give an introduction to put all this work in the context i'll talk about the experimental setup used for the physics analyses all discuss.
+
+Toyoko Orimoto: The majority of this talk will be the past section, which is the run to search for expert air production in the WW gamma gamma channel.
+
+Toyoko Orimoto: i'll talk about some info from the President, which is a run through email trigger optimization and commissioning and then I will say a word about the future, which is phase two prospects.
+
+Toyoko Orimoto: for diabetics measurements at the llc and then i'll summarize so, starting with the intro so I want to start off by reminding everybody that in 2012 the higgs boson was experiments, we discovered by the.
+
+Toyoko Orimoto: yeah before this PhD, though.
+
+Toyoko Orimoto: By the cms and operations and.
+
+Toyoko Orimoto: This was, of course.
+
+Toyoko Orimoto: A huge announcement in here, you can see in this image, this is the main auditorium where it was announced at CERN July 4 2012.
+
+Toyoko Orimoto: So this was huge for particle physics, because this was the experimental discovery of the final missing piece of the standard model of particle physics and the golden channels for its discovery, where the higgs digging into two photons and into to said boys on stuff for leptons.
+
+Toyoko Orimoto: So what is it Center model and why was the discovery so significant, so the Center model is a quantum field theory Center model where sm.
+
+Toyoko Orimoto: And the most successful theory of particle physics, to date, and the reason is because it agrees with the vast majority of our physical observations.
+
+Toyoko Orimoto: And it predicts a slew of particles and forces, as you can see in this nice diagram on the right, the Center model is composed of corpse leptons.
+
+Toyoko Orimoto: force mediating both zones and also on the top right the the higgs boson, which was the final particles be discovered in this picture in 2012.
+
+Toyoko Orimoto: So while it's very successful we actually know the standard model is incomplete, because, for example, it does not define a mechanism for the gravitational force, which is one of the four fundamental forces of nature.
+
+Toyoko Orimoto: And it also does not account for the neutrino mass there, and so this is part of the motivation for people to look for a standard model of physics, but also to search for beyond the Center model of physics.
+
+Toyoko Orimoto: Okay, so after discovering a particle you know what do you do next, so the main one thing that we're interested in doing is measuring the properties of that part but we see it exists, but we want to.
+
+Toyoko Orimoto: be able to quantify it's different trades better, and so this includes measuring things like the exposed on mass and it's couplings other standard model particles, as this is a fundamental test the standard model.
+
+Toyoko Orimoto: And so, this part on the right, shows the higgs coupling to various standard model particles and notably on the bottom, you can see, the ratio of the coupling to the standard model value.
+
+Toyoko Orimoto: So one reason doing a measurement and like this is interesting is because if you measure, a coupling that's different from the standard model okay.
+
+Toyoko Orimoto: The screen is doing something right now.
+
+Toyoko Orimoto: Oh.
+
+Toyoko Orimoto: yeah I think it's just, unfortunately.
+
+Toyoko Orimoto: So right now the projectors updating so i'm just going to stop for a minute I guess I hope.
+
+Darien Wood (he/him): It looks still fine on zoom but.
+
+Toyoko Orimoto: I thought Okay, I simply.
+
+Darien Wood (he/him): factor.
+
+Toyoko Orimoto: yeah just the projector in the room.
+
+Toyoko Orimoto: it's installing a system updated.
+
+Toyoko Orimoto: it's actually kind of looks like that yeah.
+
+Toyoko Orimoto: yeah one thing we deal with them particle physics, a lot of unforeseen circumstances so sometimes we have to kind of improvise to deal with that you're.
+
+Toyoko Orimoto: not this one, no.
+
+yeah.
+
+yeah.
+
+Toyoko Orimoto: It actually looks a lot, like the circle from the particle fever movie.
+
+Yacine Haddad: It looks like an eclipse from here.
+
+Toyoko Orimoto: Just to be clear this research is not sponsored by this company.
+
+Toyoko Orimoto: want to like unplug and plug in or.
+
+Something.
+
+Oh okay.
+
+Toyoko Orimoto: No question, maybe unfortunately plugin was probably a good idea yeah.
+
+Working fine.
+
+For him here in New England special.
+
+Toyoko Orimoto: Our true very, very true stop stop presenting and then we can maybe.
+
+Toyoko Orimoto: And maybe we can try and coordinate with them.
+
+Toyoko Orimoto: Can you hit stop there's no.
+
+Toyoko Orimoto: Okay, and then maybe go one more time to maybe you want it, you don't want to just.
+
+Toyoko Orimoto: You think we should just try powering really powered on top just updated.
+
+Toyoko Orimoto: yeah yeah let's try this Okay, and then.
+
+Stephanie Spinosa: And maybe one.
+
+Toyoko Orimoto: Put that.
+
+On.
+
+When I caught it.
+
+Toyoko Orimoto: Because.
+
+Toyoko Orimoto: This is one of the.
+
+Toyoko Orimoto: I don't know this might work if we just started loving this or not.
+
+Toyoko Orimoto: But maybe we should just.
+
+So what we would need to do is have you pull up your slides and.
+
+Toyoko Orimoto: Maybe you can try to get on device we're going to practice.
+
+Toyoko Orimoto: The past.
+
+Yangyang Chen: Recording.
+
+But I think.
+
+Toyoko Orimoto: But I think it's not the projector it's like the kid it's the connection to the desk because, like wasn't recognizing every device somehow.
+
+Toyoko Orimoto: But uh but maybe they've been giving me turn apple can use their players that.
+
+Jenny Schwartzman: Would you.
+
+Toyoko Orimoto: Like you, something.
+
+Toyoko Orimoto: hey look at Donald well.
+
+Toyoko Orimoto: Can you also just connect to anyone.
+
+Toyoko Orimoto: And then browse to the address.
+
+Toyoko Orimoto: Or can use this interesting interesting.
+
+What is that.
+
+And then just try to go to that Adams.
+
+321.
+
+Toyoko Orimoto: Okay okay there we go.
+
+Toyoko Orimoto: Always.
+
+Toyoko Orimoto: sort of wanted to just play.
+
+Good.
+
+Toyoko Orimoto: we're having trouble getting something.
+
+Toyoko Orimoto: we're trying to get those.
+
+Toyoko Orimoto: purposes, it was working before, but then.
+
+Toyoko Orimoto: projected like a.
+
+Toyoko Orimoto: Like a softer softer as we can okay right in the middle of his presentation.
+
+speeches.
+
+Toyoko Orimoto: Already gonna do.
+
+Toyoko Orimoto: That it's not working.
+
+OK OK.
+
+Toyoko Orimoto: Now.
+
+Toyoko Orimoto: Oh.
+
+Ad.
+
+copy.
+
+Toyoko Orimoto: yeah but I forget who said heard you're not you're going to need to know exactly where.
+
+Toyoko Orimoto: We need to enter the password which I.
+
+Think that's why I think you need to just.
+
+Toyoko Orimoto: About.
+
+It.
+
+Toyoko Orimoto: one else.
+
+Toyoko Orimoto: was on the bandwagon and journalism has to be sensitive.
+
+Part part.
+
+Toyoko Orimoto: One state that was so nice to see you need open the Bible is.
+
+Toyoko Orimoto: A choice you know just open the file itself what files.
+
+Toyoko Orimoto: Are expiring.
+
+Yet.
+
+You have a download.
+
+Toyoko Orimoto: The PDF of the PDF of the slides yeah it's only been two.
+
+Toyoko Orimoto: Or maybe.
+
+Toyoko Orimoto: No okay okay.
+
+Toyoko Orimoto: yeah but are you looking for, so this is what it looks.
+
+Like he.
+
+Toyoko Orimoto: allowed me the desktop version of a good night.
+
+Toyoko Orimoto: didn't know.
+
+Toyoko Orimoto: For sure like.
+
+Toyoko Orimoto: You know.
+
+Toyoko Orimoto: she's.
+
+Toyoko Orimoto: Just one.
+
+Toyoko Orimoto: This one is running other songs.
+
+Toyoko Orimoto: i'm just going to go to the.
+
+Toyoko Orimoto: desktop and Oklahoma city is this on the desktop.
+
+Can you split the manager.
+
+downloads.
+
+desktop.
+
+Toyoko Orimoto: And the first one.
+
+Toyoko Orimoto: Highly.
+
+Toyoko Orimoto: yeah.
+
+Toyoko Orimoto: You don't need to close this one, you can just go in this message.
+
+Toyoko Orimoto: But when I put this on top.
+
+Of.
+
+Toyoko Orimoto: This like so like a projector to the software update during this chat with some me and my team they thought plastered later i'm sorry but that's it's not that wasn't and then, once this offer opportunity will no longer show my.
+
+Toyoko Orimoto: stuff started to like you know because they updated the system yeah so okay nice now just start sharing again I guess right yeah but we don't want no, thank you and I.
+
+Toyoko Orimoto: Know Jenny.
+
+Toyoko Orimoto: Yes, yeah.
+
+Toyoko Orimoto: yeah I sent the link to.
+
+Toyoko Orimoto: Superman just came in and said, this is.
+
+Toyoko Orimoto: joking.
+
+Toyoko Orimoto: yeah I think that's a very.
+
+Toyoko Orimoto: Good I like to think that nothing, nothing other didn't know either just.
+
+Toyoko Orimoto: Okay, so sorry about that unforeseen stop, so I think i'm just going to continue from the slide okay.
+
+Toyoko Orimoto: Right, so what I just mentioned, is that in 2012 we experimentally discovered the higgs boson, which was the final piece of the standard model.
+
+Toyoko Orimoto: And so what i'm talking about now is you know, following the discovery of any part of quarter we actually interested in doing.
+
+Toyoko Orimoto: What we're interested in doing is i'm measuring the particles properties, including its mass and couplings to other Center model particles.
+
+Toyoko Orimoto: As this is a fundamental test of the standard model, so this part on the right, shows the coupling strings measured by cms experiment of different articles to the higgs boson.
+
+Toyoko Orimoto: And on the bottom, in particular, you can see, the ratio of the measure values to the predicted Center model value.
+
+Toyoko Orimoto: So one reason why performing measurements like this is interesting is because if you measure, a coupling that's very different from the standard model value.
+
+Toyoko Orimoto: it's a hint that there might be some bsm physics there, which we expect to exist, and so, while we can study the higgs, we can also use it as the bridge to be sm physics were that's beyond the standard model of physics.
+
+Toyoko Orimoto: And so, actually just a few weeks ago at CERN on July 4 2022 this was the the 10 year anniversary of the announcement of the higgs discovery and there's this really nice scientific symposium that took place actually in the same room.
+
+Toyoko Orimoto: In the main auditorium as the higgs discovery, where an image is shown here so over the past 10 years since the higgs discovery the higgs has been extensively studied.
+
+Toyoko Orimoto: And there's a huge ongoing case program which will be related to the research, I talked about today and, of course, in order to do any of this research, you need the proper experimental setup, which is what i'm going to talk about now.
+
+Toyoko Orimoto: Right, so the first part of the experimental setup is the llc So this is the large hadron collider it's the largest particle accelerator ever built and it straddles the Swiss French border near Geneva Switzerland.
+
+Toyoko Orimoto: So it's really big as the circumference of 17 miles, which is 27 kilometers and what it does, is it accelerates and clyde's particles using superconducting I can so really strong magnetic fields to accelerate particles.
+
+Toyoko Orimoto: And here, you can see an image of the elysee at CERN and you can see an image for each of the major experiments that are located on the elysee.
+
+Toyoko Orimoto: So the llc produces collisions at the centers of these experiments, so that they can analyze the data and look for physics and the major experiments are the cms atlas LCD and Alice and the llc primarily produces proton proton collisions so the questions have to protons.
+
+Toyoko Orimoto: So the experiment that I worked on during my PhD is a cms, which is the compact view on so anyway experiment.
+
+Toyoko Orimoto: it's a general purpose particle detector and station on the legacy so in the image on the left, you can see a picture of cms in the experiments or cavern.
+
+Toyoko Orimoto: And on the right, on you could see myself at the detector so I was lucky enough during my PhD to be able to see the detector in person.
+
+Toyoko Orimoto: Both as a visitor, and as a cms tour guide, so it was really it's really like an amazing sight to see in person.
+
+Toyoko Orimoto: And so what do I mean by it being a general purpose particle detector so by that I mean it performs a ton of different types of physics searches for example searches for dark matters searches for supersymmetry.
+
+Toyoko Orimoto: searches for rare particles, including dynamics which i'll talk about later it performs precision measurements there's be physics just a ton of huge physics program and cms.
+
+Toyoko Orimoto: And while till the compact million so and it actually is kind of large as its dimensions are 21 meters by 15 years by 15 meter so it takes up a huge space in a room.
+
+Toyoko Orimoto: Right, and so the way cms is composed is a multiple layers and that's so that it can detect different types of particles that come out of the proton proton collisions.
+
+Toyoko Orimoto: So the main layers are an inner tracker native silicon different color perimeters a huge solenoid magnet which provides it provides a magnetic field in order to bend particles and measure their momentum.
+
+Toyoko Orimoto: and also a series of nuance chambers and so on the left, you can see a cross section of cms and basically.
+
+Toyoko Orimoto: The point of it is to show that different particles stop in different parts of the detector, this is by design, so that we can detect a lot of different types of particles.
+
+Toyoko Orimoto: And one type of phenomenon, you see that's not exactly a particle something called a jet which I mentioned a few times today, and this basically comes from the fact that when producing corks from collisions of course cannot exist on their own, and so what they do is they end up patronized.
+
+Toyoko Orimoto: By forming hydrants with corks from the vacuum and this eventually produces a large shower of particles that looks something like the diagram on the right, so instead of single course we see a shift of activity in the detector.
+
+Toyoko Orimoto: And so, of course, it's crucial to be able to detect different particles, so that we can look for many types of physics and the different final states, for example, the higgs boson.
+
+Toyoko Orimoto: And so the sub detector of cms that I worked on during my PhD is the cms he cow so that's the electromagnetic Keller amateur.
+
+Toyoko Orimoto: Which is composed of a barrel section, the end and and cab sections which are the E and it's made out of about 76,000 lead homestay crystals and so and its purpose.
+
+Toyoko Orimoto: is to precisely measure the energies of electrons and protons as well as the electromagnetic fraction of JET so the gentleman that I mentioned before.
+
+Toyoko Orimoto: And so on the operator, you can see a diagram of the color the blue represents the crystals in the end CAP, the green and purple represent the barrel section, where you can see an image of the barrel section on the bottom left.
+
+Toyoko Orimoto: And the way that i'm detail works is that and electromagnetically interacting particle will strike the crystals this will produce insulation light and then these damn showers will reach the back of the crystal.
+
+Toyoko Orimoto: And there are detected by radiation tolerant photo detector so a PDF or get your avalanche photo diodes in the barrel, and the pts which are vacuum triaud back in photo trials in the tab.
+
+Toyoko Orimoto: So, and in the middle immature you can see an example, a picture of an email Crystal and it's photo detectors and on the bottom, or you can see, half of an eco cab which is composed of a lot of crystals to give it its shape.
+
+Toyoko Orimoto: And so, one thing to point out is that the cms ECO was designed with the higgs gamma gamma process in mind, remember that was one of the golden channels for the discovery of the higgs boson so we always do designer detectors with the physics in mind that we want to search for.
+
+Toyoko Orimoto: Okay, and i'm the section by showing the long term schedule.
+
+Toyoko Orimoto: So at elysee there's a huge long term schedule and the way it generally works is that you have running periods, where the allergies colliding protons for about four years.
+
+Toyoko Orimoto: And then usually a multi year period shutdowns so this current long term plan goes up to 2038, and so the past portion that i'll talk about is what's called run two, which was from.
+
+Toyoko Orimoto: The President parts like what's happening now is elysee run three which will go from 2022 to 2025 and then i'll say a word about the future section in which the elysee will be upgraded to the highest luminosity elysee DHL HC and that currently plan for 2029 to 2013.
+
+Toyoko Orimoto: So, starting with the past portion So this is the run to search for expert production in the WW gamma gamma channel, and this was the majority of the word for my thesis so i'll start with the theoretical background.
+
+Toyoko Orimoto: So an important part of the Center model is what we call the higgs potential, and this is basically the way via which the higgs field interacts with other particle fields.
+
+Toyoko Orimoto: And so, after a process called electroweak symmetry breaking the higgs potential takes the form, I show here, where I showed up to about fourth order terms.
+
+Toyoko Orimoto: And one part of the six potential is the so what the heck does this and interacts with massive particles, but it also interacts with itself.
+
+Toyoko Orimoto: And so the strength by which it interacts with itself is cramped Prize by what's called the self coupling which is landon's equation.
+
+Toyoko Orimoto: And so the himself coloring coloring is predicted by the Center model there's a value that we expect to be true.
+
+Toyoko Orimoto: But of course on the experimental side, we want to measure that parameter, to see what nature is actually telling us is the value for that, so that we can compare it to the theory.
+
+Toyoko Orimoto: And so you know one important thing about the higgs potential is that its shape will determine the higgs vacuum expectation value, which is essentially like the bathroom or ground save energy and also the type of stability of the vacuum expectation value, which is the death.
+
+Toyoko Orimoto: So this part on the left, shows the expected type of stability and the higgs bed.
+
+Toyoko Orimoto: as a function of the top court mass on the y axis and the higgs mass on the X axis, and when you see is that the prediction is that we're in the yellow region, which is a Meta stable region.
+
+Toyoko Orimoto: And what that means, as shown by the image on the right, is that you have the screen, which represents the higgs bev sitting at a minimum.
+
+Toyoko Orimoto: But because there is some lower global minimums somewhere else there's a nonzero if this were true there's a nonzero chance that the.
+
+Toyoko Orimoto: tunnel into a lower minimum, and this was completely fundamentally change how physics worse, so we of course want to measure the himself coupling eventually.
+
+Toyoko Orimoto: Because this will give us the direct measurement of that shape of the higgs potential and could verify or refute what we expect in the standard model, what happens.
+
+Toyoko Orimoto: If it tunnels, then I mean the couplings of the higgs to all the strength of the coupling of the higgs to all the particles would change.
+
+Toyoko Orimoto: I think everything might turn into small black holes or something like that I think i've heard so it would completely change everything, so we have our backs.
+
+Toyoko Orimoto: Okay okay yeah.
+
+Toyoko Orimoto: Okay, so.
+
+Emanuela Barberis: I just had to point out that that anything which is commented from the audience is not audible.
+
+Toyoko Orimoto: So yeah.
+
+Toyoko Orimoto: yeah.
+
+Toyoko Orimoto: Okay yeah so what Jim was asking was basically like what happens if the tunnels to alarm minimum, and the answer is that the the coupling of the higgs other particles would completely change and just the laws of physics wouldn't change, as we know them.
+
+Toyoko Orimoto: So we know we're interested in measuring the himself coupling to see how it compares to the predictive value and the way we do this is via hicks pair production, so this is the production of to higgs bosons.
+
+Toyoko Orimoto: In a single process, and this is a process predicted by the standard model.
+
+Toyoko Orimoto: And the reason, this gives us an access to the himself coupling is because if you look at this.
+
+Toyoko Orimoto: These are the two leading order diagrams so most likely ways in which you can diagram form of the most likely ways in which you can produce a higgs.
+
+Toyoko Orimoto: And on the left, you could see this Green coupling shows a higgs boson the King and have to expose ons.
+
+Toyoko Orimoto: which represent and the strength of that interaction is being self publishing and so we see it's accessible through this triangle diagram and on the In addition we have this box diagram on the right, which is sensitive to the column top coupling.
+
+Toyoko Orimoto: So we want to search for this process and data to one confirm that it exists, and also to measure the himself coupling.
+
+Toyoko Orimoto: So these diagrams are the main contributors to the likelihood that the process will happen in our collisions which is known as the Cross section.
+
+Toyoko Orimoto: And there's actually a large destructive interference between these two diagrams so this part of the left, shows the differential cross section, so the likelihood versus the the dialogues mass.
+
+Toyoko Orimoto: And what we see essentially is that this Green Line represents the interference between these two diagrams and computing the Cross section.
+
+Toyoko Orimoto: And what this lady she was the black line, which is the total likelihood that this process will happen.
+
+Toyoko Orimoto: And the likelihood that Shakespeare production will be produced is very rare so it's about 1000 times less likely to be produced compared to a producing a single higgs boson.
+
+Toyoko Orimoto: And that approach on proton collider the most likely way to produce it is be a glue and glue on fusion, so the fusing have to glue on Saturday eggs.
+
+Toyoko Orimoto: And this is shown by the part on the right, where we see the red line represents going on fusion has the most likely production mode and then there are subsequent on other production mode, which are less likely.
+
+Toyoko Orimoto: And the value for the dynamics cross section will go on go on fusion is 31.05 femto Barnes at a 13 TV acquire.
+
+Toyoko Orimoto: And so, in addition, for searching, in addition to searching for the Center model process.
+
+Toyoko Orimoto: We can also perform a model independent search for a new physic by parameter rising our little grungy and as an eft, which is an effective field theory.
+
+Toyoko Orimoto: And this is a way to alter the standard model of grungy and and let us search for a range of bsm beyond the standard model scenarios.
+
+Toyoko Orimoto: So you can see in this lagrangian here the green and blue terms correspond to the himself coupling and the topic comma coupling.
+
+Toyoko Orimoto: Which are represented by the triangle and box diagrams in the bottom left and, in addition, there are three couplings added so in red so C to C G and C to D.
+
+Toyoko Orimoto: which represent purely beyond the standard model processes which are shown by the diagrams on the bottom right and correspond to die higgs coupling to two quarts Davis coming to bluejeans and the higgs couple minutes ago, and none of which directly exist in the standard model.
+
+Toyoko Orimoto: Okay, so now we'll talk about the strategy for the analysis we performed.
+
+Toyoko Orimoto: So we know this process is really rare and the way we serve we say to look for it is by looking forward to to higgs we're one of the higgs decays into two photons and one of the other 60 days into two w both zones.
+
+Toyoko Orimoto: And we performed the search with the run through data set, and this was actually the first year is performed by cms for this hicks pair process in this particular final state.
+
+Toyoko Orimoto: So this planning love shows the likelihood of didactic decaying into different final states where the WW gamma gamma is circled in black.
+
+Toyoko Orimoto: So overall, it has a pretty low branching ratio it's about 0.1% but the benefits of this final state or that have benefits from a relatively large standard model branch ratio of hicks wwe, which is about 22%.
+
+Toyoko Orimoto: And importantly also has a very clean case to gamma gamma signature, because this looks very different from any background processes.
+
+Toyoko Orimoto: And remember the gamma gamma was one of the golden channels for discovery of the original one higgs boson so in this analysis, we consider all three files states of the w goes on pair in order to maximize the sensitivity of this analysis.
+
+Toyoko Orimoto: Right, so the main handle of the search is the higgs to gamma gamma leg of WW gamma gamma So what we do is i'm.
+
+Toyoko Orimoto: At cms one proton proton collisions or or delivery, but the llc we call these interactions and the physics that happens.
+
+Toyoko Orimoto: that's, and so what we want to do is select the events from these ports on person interactions which have a good day photon candidate, which is directly measured by the electromagnetic Hello perimeter.
+
+Toyoko Orimoto: So this event display on the Left shows and events from cms from the 2012 discovery, it takes to gamma gamma where these two green lines correspond to a very highly energetic photons.
+
+Toyoko Orimoto: And this is shown in diagram for on the right, where you have the higgs going to two photons and notably the higgs cannot directly couple of photons because their mass lists and instead of produce gamma gamma three heavy Cork.
+
+Toyoko Orimoto: So we started out by selecting events which have at least two highly energetic and isolated photons.
+
+Toyoko Orimoto: And then there's the other legs to wwe so after we've selected events which have fixed gamma gamma we want them to see if they also have links to WW.
+
+Toyoko Orimoto: So the way we do that is by selecting further selecting cms event which has, which has the highly energetic i'm highly energetic leptons.
+
+Toyoko Orimoto: My highly energetic edge generally mean high transverse momentum, and the reason that transverse momentum is interesting is because the initial collision there is no momentum in the.
+
+Toyoko Orimoto: transverse direction so if we see some momentum in the transverse direction after a collision It means that some interesting because it's happened and something was so that's why I mentioned PT a lot in this is trans.
+
+Toyoko Orimoto: So we're looking for highly energetic isolated laptop so electrons in nuance.
+
+Toyoko Orimoto: And also jets coming from court pattern ization that I mentioned before, so this user is not just the email, but the entire cms detector media used information from all of a sudden detectors in order to.
+
+Toyoko Orimoto: detect these so the three WW final seats are shown here where these are the semi look tonic fully hydroponic and fully lab tonic final states.
+
+Toyoko Orimoto: And these correspond to the different combinations of the diodes w goes on pair decaying.
+
+Toyoko Orimoto: So it can be into two ports left on neutrino for corks or two leptons into new treatments and it's important that we keep these three final states orthogonal.
+
+Toyoko Orimoto: By categorizing events, based on the number of luck, so if an event has one zero or two leptons it's put into the corresponding category, we need to keep these orthogonal so that in the end we can combine the channels and get a more sensitive result without double counting events.
+
+Toyoko Orimoto: Right so as for the expected physics signatures here will be called the signal, region or the region where we expect to see a clear signature of the signal.
+
+Toyoko Orimoto: Is the dye photon in very massive massive a two photon pair around 125 giga electron volts or gv because this is the mass of the higgs boson so we expect to see a signature there, and so in red, you can see the dynamics so H H to WW gamma gamma signature we're looking for.
+
+Toyoko Orimoto: We expect the peak there, but we also expect the peak from a resonant background from the single higgs to gamma gamma because it also has the gamma gamma so you expect the peak there.
+
+Toyoko Orimoto: And then, in addition, we have a continuing background shown in green, which means you can get di photon masters from a lot of different processes, but you won't have a peek because it's not coming from a higgs boson.
+
+Toyoko Orimoto: So what we want to do in this analysis is define a region so we want to take events which have a high signal to background ratio, so we want to get as much signals possible by reducing the background.
+
+Toyoko Orimoto: And so to maximize our dynamic sensitivity, we need to separate di higgs from hicks gamma gamma and the continuum of background.
+
+Toyoko Orimoto: So now let's talk about the semi electronic file system, because this is what I focused on during my PhD.
+
+Toyoko Orimoto: So as a reminder, the semi electronic final state is where one of the two pigs to gaze into gamma gamma and the other two kids to WW which the case to two ports and a lot of time and a neutrino.
+
+Toyoko Orimoto: So this final state benefits from a high w branch and ratio so it's a case to two quarts about 67% of the time, and it also has a clean leptons signature from the other wk.
+
+Toyoko Orimoto: So what we do is we apply our standard photon laptop and jet selections and then we chose to maximize the sensitivity of the final state.
+
+Toyoko Orimoto: By by training a multi classifier deep neural network in order to separate our three physics signature so dynamic 60 gamma gamma and the continuum background and what we do is we use the output score from the CNN to categorize events into categories.
+
+Toyoko Orimoto: Alright, so i'll talk a little bit about the dnn So what we did is we performed the dnn training using careless with the tensorflow backend.
+
+Toyoko Orimoto: Using and we use a feed forward neural network with backwards propagation, this is a pretty standard way to compose a neural network.
+
+Toyoko Orimoto: And one point is that we chose to use a multi classifier dnn instead of a binary one so.
+
+Toyoko Orimoto: A binary dnn would separate events into signal and background, but because we know we have two distinctly different types of background we chose to use a multi classifier to separate the distinct three classes.
+
+Toyoko Orimoto: And on this image on the bottom left here, this is just a diagram of kind of what a dnn architecture looks like we're on the left, you have input, you have hidden layers and on the right, you have the output, so this is the score, we get in the end.
+
+Toyoko Orimoto: And so I won't go over all of our input features to this dnn but essentially we want to use kinematics from the particles would be expecting our final state, so the energy momentum.
+
+Toyoko Orimoto: pseudo rapidity, and five of the two photons from these gamma gamma the two jobs from the two courts and the laptop and the neutrino.
+
+Toyoko Orimoto: So the way we train our dnn is we train on simulation because we don't want to train on the cms data itself, because we want to train on something statistically independent.
+
+Toyoko Orimoto: Such that the dnn doesn't learn just the data itself and it's actually able to learn the features from something statistically independent.
+
+Toyoko Orimoto: And we also do this with that we can optimize our dynamic signal, because we can insert a simulation dynamic sample to tell it exactly what it should look for in the data.
+
+Toyoko Orimoto: And sort of in the signal that we use we use a single in the training is we.
+
+Toyoko Orimoto: We have a lot of generated dialogues events that beating mortar and we reward them to next deleting order in order to give us a sample independent from the diet example we will use to model, our diet eggs, a signature.
+
+Toyoko Orimoto: And we know that this works well, because these two parts here show to have the input features, so the scale leading photon PT and skilled sub leading votes on PC.
+
+Toyoko Orimoto: scaled by the Di proton mass and what we see is that the orange and blue, which are the related and separate generated symbol have pretty good agreement, so this means we expect that we're training on something signal like that should be aimed at identifying diagonal.
+
+Toyoko Orimoto: For the continuum background we also use simulation of a bunch of continuing the background processes.
+
+Toyoko Orimoto: And we improve the modeling the using a six dimensional kinematic every waiting from leading important variables so basically we want our Monte Carlo or simulation to model, the data well so that the dnn.
+
+Toyoko Orimoto: learns what it expects to see in the data and then, finally, for the single higgs we train on to single higgs processes, namely a higgs to gamma gamma with associated production with a vector goes on.
+
+Toyoko Orimoto: And with a Tiki bar pair, and the reason we train on these because they're topological pretty good at faking the semi Lib tonic die takes it true.
+
+Darien Wood (he/him): So a.
+
+Darien Wood (he/him): Question i've forgotten why you don't use the nll directly while you wait elbow to elbow instead of just using you know.
+
+Toyoko Orimoto: yeah the reason we did, that is because we want to use are generated now assembled for the dynamic signal model itself.
+
+Toyoko Orimoto: So that way we don't have to split that up into the training and test events.
+
+Toyoko Orimoto: So rather we we like that we have our 12 elo generated samples completely separate that can be used only for the training and then we evaluate on the envelope, but the leading order is three way too low, so it a models, the nll after the waiting does that make sense okay.
+
+Darien Wood (he/him): But you could have used a separate independent and Hello sample there's nothing magical about Hello are.
+
+Toyoko Orimoto: that's right there's nothing magical just yeah.
+
+Toyoko Orimoto: Look at this.
+
+Toyoko Orimoto: actors dance yeah.
+
+Darien Wood (he/him): Okay, thanks.
+
+Darien Wood (he/him): Okay yeah.
+
+Toyoko Orimoto: So in the training, what we do with our events as we separate them into training, which is 90% of the statistics and a test data set which is 10% of the statistics we reserved for a test.
+
+Toyoko Orimoto: And so what we do is, we can evaluate our data and performance by looking at the rock curves which are the receiver operating characteristic curves.
+
+Toyoko Orimoto: And these are essentially the true positive rate versus the false positive rates for different discrimination thresholds.
+
+Toyoko Orimoto: And one way we evaluate that are deep neural network is not over trained on the training data set we give it by comparing the rockers of the training and test data sets.
+
+Toyoko Orimoto: And what we see is that they're pretty similar for our three classes, which are the dynamic single takes and continuing background, so this This gives us our first and that we don't expect there's bias from edina yep.
+
+Toyoko Orimoto: So the question was did we study uncertainty and roll now predictions, and I do you mean like us like a systematic uncertainty retraining my worry that, for certain types of data in there might be like various networks across the ensemble which tells me that the results.
+
+Toyoko Orimoto: I don't remember explicitly checking for that I know for sure that we scan we did a hyper parameter optimization which, in a way of sort of like checking different neural nets which eventually we're giving a similar performance but i'm side from that no, not that I can just imagine.
+
+Toyoko Orimoto: Doing for hyper parameters, because we have visualized in addition to it and the average and for some infantile mind is always thinking.
+
+Toyoko Orimoto: yeah I don't think we did that, but a good idea.
+
+Toyoko Orimoto: Okay, so that's another way, we could check for any potential bias in our or uncertainty in our own work.
+
+Toyoko Orimoto: Right, and so one useful thing.
+
+Toyoko Orimoto: To look at when training any sort of MBA multivariate analysis training or dnn and this point in this case is looking at the leading important variable so this means which input features are really important for discriminating our signal diet higgs from our other two.
+
+Toyoko Orimoto: processes, and this is shown a.
+
+Toyoko Orimoto: lot on the right and essentially the point is that we see that the leading variables all come from the particles in our final state so, namely the two photons from the higgs gamma gamma the leptons two boards in the neutrino from the two w to case.
+
+Toyoko Orimoto: So this is this gets the shows us what we expect in this kind of like gives us another piece of evidence Okay, we think our neural network is performing and behaving as a trick.
+
+Toyoko Orimoto: Okay, so in this analysis, the dnn outputs a dnn score between zero and one and in the analysis, we do not use any of the events between a score of zero to 0.1.
+
+Toyoko Orimoto: And the reason is because in this region there's an extremely low signal to background ratio and so using them would have almost no effect on the analysis and we do not define a separate control regions to.
+
+Toyoko Orimoto: to lower the uncertainty of our processes in a single region so we don't use them, we throw them out, and so what we get.
+
+Toyoko Orimoto: When checking the data Monte Carlo data simulation comparison of some of the leading important variable shawn right is that there's relatively good agreement, so you can see that the.
+
+Toyoko Orimoto: The black is the data points and the other colors are the.
+
+Toyoko Orimoto: The simulation to me to see their shapes are relatively good agreement meeting we expect that our neural network has done a decent job, a pretty good job of like have a being able to identify these processes in the day.
+
+Toyoko Orimoto: And one thing I want to mention is that the Monte Carlo and this analysis is not used at all for signaling backer and modeling it's only used for dnn optimization.
+
+Toyoko Orimoto: So this means if we see any disagreements and plots like these, it mean it indicates that our network of Sub optimal but we don't expect a bias to produce.
+
+Toyoko Orimoto: Oh yeah I see oh.
+
+Emanuela Barberis: hi um did you do any.
+
+Emanuela Barberis: test Chi square test or any type of agreement of data, a Monte Carlo on the inputs to the dnn.
+
+Toyoko Orimoto: um.
+
+Emanuela Barberis: You choose.
+
+Emanuela Barberis: variables based on.
+
+Emanuela Barberis: You know best agreement or review, because I know that it can be suboptimal but if there are large data to Monte Carlo deviations on the input variables, you could bias towards certain kinematic regions.
+
+Toyoko Orimoto: yeah that's a good point, we did not perform any Chi square test for the input features, we kind of just decided by that most of the statistics work in good agreement.
+
+Emanuela Barberis: But you know test every input yes okay.
+
+Toyoko Orimoto: Okay yeah good question.
+
+Emanuela Barberis: Usually that happens for the jets related variables, so that will be like you're drawn equally decaying Wu kinematics.
+
+Emanuela Barberis: Okay didn't serve any significant deviation so right.
+
+Emanuela Barberis: yeah.
+
+Toyoko Orimoto: Okay right so.
+
+Emanuela Barberis: After we have our dnn sport.
+
+Toyoko Orimoto: We use it to categorize or.
+
+Toyoko Orimoto: advanced and so you can imagine that you could you could separate those events into different bins and different categories.
+
+Toyoko Orimoto: But what we did is, we want to be systematically define where to put the boundaries in order to maximize the sensitivity of the analysis.
+
+Toyoko Orimoto: And so the the final dnn categories that we chose are drawn on the CNN score caught on the right as vertical lines are there at 0.1 all the way on the left.
+
+Toyoko Orimoto: 0.63 0.84 Okay, up to one and basically What this shows us is that the, the agreement is relatively good meaning, it seems that our Dean, and was trained pretty well to identify these three processes in the data.
+
+Toyoko Orimoto: Right and what we also see is that it's able to pretty well i'm increasing our sensitivity towards the right as you see the red line, which represents the signal starts to go higher towards the right.
+
+Toyoko Orimoto: While it's able to separate the backgrounds, as you can see, the data simulation background start to decrease, as you go to the right.
+
+Toyoko Orimoto: When you say the boundaries you.
+
+Toyoko Orimoto: know this is, this is the categorization of the dnn score histogram itself so son after the train.
+
+Toyoko Orimoto: yeah it's basically just if you put the boundaries in different places, you get different expected signal over background ratios, and so we optimize the boundaries, such as we have high signal to background and you have some events that were close to the boundaries that.
+
+might tell you that that was not very sort of the vulnerable.
+
+Toyoko Orimoto: um I don't remember if we check that so i'm not sure it's just a fun way to study failure modes and it's super easy to do so, like a very binary classification and.
+
+Toyoko Orimoto: Sometimes the network or critical point six it will tell you the label one but exactly okay actually we yeah at some point we so agenda desk is did we study, if any of the.
+
+Toyoko Orimoto: There was if there were a lot of edge cases where the dnn might have been like identifying a lot of process events and being at a certain score right at the boundary and.
+
+Toyoko Orimoto: The answer is that um we so we actually did we saw things like this when we started training we were seeing P fetzer and then it turned out, it was because of mainly bugs in the training and so, once we so he checks that but then it just led us to fixing the neural net itself.
+
+Emanuela Barberis: Eva may ask one more question.
+
+Emanuela Barberis: Here, how do you.
+
+Emanuela Barberis: I am not entirely clear how you do the optimization of the.
+
+Emanuela Barberis: categories, so do you mean.
+
+Emanuela Barberis: Once you have selected the yeah but the soft first of all, how do you select the boundaries and once you have selected the boundaries, how do you use the different.
+
+Emanuela Barberis: categories to maximize the sensitivity, are they entered as.
+
+Emanuela Barberis: correlated uncorrelated signal, regions or different regions into your final feet, or maybe you go into the details in the next slide so.
+
+Toyoko Orimoto: way I have some backup information on that, but I think I can explain mispronounce your better idea yeah basically what we do is we vary, the number of categories so and also very the beginning of this Dean and square distribution represent point one, so one.
+
+Toyoko Orimoto: Basically, just check the expected significance, so the combined signal over background for all these different cases, so all the different combinations of the category boundaries being drawn.
+
+Toyoko Orimoto: at different.
+
+Toyoko Orimoto: Different buildings and in the end we chose this case because it gave us the highest signal over background when combining all the categories.
+
+Emanuela Barberis: And yeah.
+
+Emanuela Barberis: Sorry go ahead.
+
+Toyoko Orimoto: No, I was just going to answer your second question, I think how we use this so we just use this some kind of organization to like categorizing the events, but in the end, later what i'll talk about it so in these four regions we define background and signal models.
+
+Toyoko Orimoto: But using these four regions just a just a classifier to categorize the events so there's no sort of yeah I think that's it okay.
+
+Emanuela Barberis: Are they do you treat them as correlated or uncorrelated.
+
+Toyoko Orimoto: um.
+
+Toyoko Orimoto: The I think certain uncertainties are considered correlated or uncorrelated but mainly depending on the year and not depending on the category, so I think we do not take any sort of correlation into account between these two categories okay.
+
+Toyoko Orimoto: Okay.
+
+Toyoko Orimoto: Right, so this is how we categorize events in the semicolon tonic final state.
+
+Toyoko Orimoto: Oh sorry.
+
+Toyoko Orimoto: I don't see it to someone else.
+
+Emanuela Barberis: Thank you jack.
+
+Jack Li: yeah yes.
+
+Jack Li: Can you hear me, yes, so my question sort of related you touched on that when you're when you're answering the previous question, so the question is the the the beginning strategy here can you elaborate more on that.
+
+Jack Li: season related to the categorization optimization.
+
+Toyoko Orimoto: yeah so essentially what we do is we.
+
+Toyoko Orimoto: Try all possible different combinations of where the category boundaries are drawn and we check the expected significance.
+
+Toyoko Orimoto: and basically we do that by taking this dnn square distribution, but because it's instagram and you can choose different buildings we do that.
+
+Toyoko Orimoto: Where there's 10 equally sized bins between zero and one and 120 equally sized events 3040 etc, all the way up to the spacing is then on April, but then up to even 1000 bins and we see which gives us the highest expected signal sensitivity.
+
+Jack Li: Thanks.
+
+Jack Li: OK thanks.
+
+Toyoko Orimoto: OK so that's the semi lip tonic final state that I focused on during my dissertation.
+
+Toyoko Orimoto: And so on this analysis, we actually collaborated with a few other institute's and they analyze the other final states of the WW so i'll say a word about those so.
+
+Toyoko Orimoto: The second final state, which is the fully hydroponic final state with the two w's decay, both in two quarts we also use machine learning techniques, but we had a different type of.
+
+Toyoko Orimoto: background signature here so in the fully head around final state the major background is the multijet QC.
+
+Toyoko Orimoto: And we actually modeled this with the data driven method, using a control region where there's very low signal to bat crap.
+
+Toyoko Orimoto: And in addition, in this final state, we have a another resident background, which is that higgs to canyons a bb gamma gamma because, due to be corpse can fake like pork activity.
+
+Toyoko Orimoto: And so what we did in this final status we invoke the dedicated bb gamma gamma killers or move the bb gamma gamma events.
+
+Toyoko Orimoto: And then we try to separate binary dnn to separate the dynamics w get data WW gamma gamma from the continuum background.
+
+Toyoko Orimoto: And so the end where we get as the steam and distribution on the right, and what I would point out here is that this dnn method is able to separate the background from the signal about, as you can see the red line peaks near one and the backgrounds peak user.
+
+Toyoko Orimoto: And then finally there's the full electronic final state where we have to leptons from the w to case.
+
+Toyoko Orimoto: And so, in this final state, we require events have exactly two laptops.
+
+Toyoko Orimoto: We apply various kinematic selection, such as what time beauty of 20 and 10 gv on these two labs fans, we require as PT on the Di photon of 91 GB and, in addition, in order to remove one of our major backgrounds, we apply selection on the dialect on mass.
+
+Toyoko Orimoto: So this plot on the right shows on the number of entries for the V eh process, which is the higgs to gamma gamma with associated production of a vector goes on in blue.
+
+Toyoko Orimoto: And you can see it as a peek at 90 GB because that's the very massive be said, both on.
+
+Toyoko Orimoto: Whereas our signal and read does not have a peek there because we don't have a resonance from the true laptops.
+
+Toyoko Orimoto: And therefore we apply a straight selection of a we remove events with which have a dial up tone that's between 80 and 100 GB, and the reason we do this is because it removes.
+
+Toyoko Orimoto: A huge fraction of that background, while preserving most of our signal so that's why we apply that.
+
+Toyoko Orimoto: And then, in addition, we also be two events which have a be tagging multivariate analysis score called a deep check the score greater than working medium point because we don't expect it to be likely to be courts in this final state.
+
+Toyoko Orimoto: Okay yeah during.
+
+Darien Wood (he/him): It back to slide 33 my question was you mentioned that there's an you know another channel being done by someone else with HPV gamma gamma and you use a dedicated.
+
+Darien Wood (he/him): killer so to keep the two analyses orthogonal did they use the same.
+
+Darien Wood (he/him): killer inverted so that you guarantee orthogonal it or how do you handle the warthog analogy between the two analysis.
+
+Toyoko Orimoto: yeah good question so dives be the gamma gamma yes, this separate other analysis, so we do not use the same bb gamma gamma killer.
+
+Toyoko Orimoto: But what we did is we use this bb gamma gamma killer and actually checked the contamination.
+
+Toyoko Orimoto: Of the same events like really from the same simulation sample into the db gamma gamma analysis and checked, how many of them end up in our WW gamma gamma analysis phase phase and we explicitly check that there's less than 1% contamination.
+
+Toyoko Orimoto: Of that analyses events in this analyses the events.
+
+Toyoko Orimoto: Oh, that was also checked actually.
+
+Darien Wood (he/him): Sorry, what was the question.
+
+Toyoko Orimoto: was saying that she.
+
+Toyoko Orimoto: thought you were asking if WW gamma gamma contaminates the bb gamma gamma analysis.
+
+Darien Wood (he/him): I mean both both ways I mean usually these multi channel things are by construction orthogonal but it sounds like you've taken a different approach, where you don't make them orthogonal but you control for the cross contamination.
+
+Darien Wood (he/him): Is that yeah.
+
+Toyoko Orimoto: yeah that's yeah the pb gamma gamma analysis and are fully hydroponic final State do not use the same.
+
+Toyoko Orimoto: be the gamma gamma discriminated, but what we did the checks that are bb gamma gamma distributor removes most of the BP gamma gamma from our face face and removes most of the WW gamma gamma from there.
+
+Darien Wood (he/him): Okay.
+
+Toyoko Orimoto: Okay.
+
+Toyoko Orimoto: Right so.
+
+Toyoko Orimoto: Right, I think I was just about finished talking about the full electronic final statement on reapply copies analysis here we actually do not imply a multivariate analysis, because.
+
+Toyoko Orimoto: The selections when selecting to boden's into lot of time of great again, who are too tight and we have, we would have too few statistics for training and MBA method.
+
+Toyoko Orimoto: Okay, so now we'll talk about the signal and background modeling so basically we've identified our selections and user multivariate analysis techniques to select cms events, and now we want to construct a signal and background models with those events.
+
+Toyoko Orimoto: So first of our dialogues and single legs modeling we apply the same methods model both.
+
+Toyoko Orimoto: What we do as you can see in the pot on the right is so this slide shows the dive proton mass and remember like I said earlier, we expect this to peak and we actually see it here peaking for our dynamic simulation sample.
+
+Toyoko Orimoto: And so what we do to analytically model, the shape is we fit a sum of Gal scenes to the histogram of the day photon mass.
+
+Toyoko Orimoto: In our signal region of 115 to 135 GB because remember that's around the higgs amounts of 125 GB.
+
+Toyoko Orimoto: And the number of galaxy galaxy interviews for the fit is determined by an F test and that's essentially a function that.
+
+Toyoko Orimoto: Are that's essentially a method that determines which function best fits the ship, so we want to analytical model these these peaks we expect.
+
+Toyoko Orimoto: So the same strategy is falling for the dynamics and single pigs thinning and is used in the same way for all final states and categories, because they both have a fixed to gamma gamma making a peek at 125 TV.
+
+Toyoko Orimoto: And after the background modeling what we do is we apply a fully data driven method, so I was mentioning before we don't use simulation for background modeling.
+
+Toyoko Orimoto: So what we do is we fit a series of analytic falling functions to the data side fans, so you can see in this part on the left.
+
+Toyoko Orimoto: What we do in doing this fitting is we have these different colored lines represent different analytic functions fitting to the left and right of the signal region we're in this particular case of first order exponential is the best fit.
+
+Toyoko Orimoto: The reason we do not look at the data in the signal region when performing this fit, which is called blinding because we don't want to bias our analysis techniques, based on what's already in the data.
+
+Toyoko Orimoto: We want to make our decisions on analysis techniques before knowing what's there so that we can evaluate what's there with our techniques and then additionally the spot on the ratios that we also assign uncertainties circling back around model using common methods used in cms.
+
+Toyoko Orimoto: Right and the reason for doing this, so that we can estimate how much continuing background, there is in the signal region, because of course those functions wallets would be in the region.
+
+Toyoko Orimoto: Right and, in addition, after producing these models, there are a slew of uncertainties apply, because of course these analytic functions.
+
+Toyoko Orimoto: are not perfect, we know there's some inherent uncertainty and then and so to mention some of these uncertainties, there are.
+
+Toyoko Orimoto: Some theoretical uncertainties on the higgs and single higgs cross section and branching ratio.
+
+Toyoko Orimoto: We have systematic uncertainties on the luminosity measurement and the trigger selection reconstruction ID and isolation deficiencies on the electrons beyonds photons injects just to go through it quickly.
+
+Toyoko Orimoto: So, in the end we have seven analysis categories so 14 and categories for some electronic three from fully hadron a good one for this on a laptop fully live time.
+
+Toyoko Orimoto: And what we do, to give you an idea of what the end fit looks like as we showed this pot on the right, which is a weighted combination of these seven categories background and signal models.
+
+Toyoko Orimoto: Where each category is weighted by a signal signal plus background, and in this case we actually look at the unblinded data so that means we look at the data around the higgs team to evaluate if we see something.
+
+Toyoko Orimoto: So of course just by looking at it, we can't really extract the result, but what we do is we apply statistical methods in order to get quantifiable results, which I will show now.
+
+Toyoko Orimoto: So in this analysis there's not enough signal to claim evidence or discovery of the higgs, but we are able to do is set upper limits on the day expert production cross section.
+
+Toyoko Orimoto: And so we'll be getting this analysis is a combined observed observed means using the data expected meaning just using simulation.
+
+Toyoko Orimoto: upper limit on dynamics production of 97 or 52 times the standard model prediction, which corresponds to three Pico Barnes observed 1.6 people Barnes expected and this point on the right, shows the three results for the three final states of the w w pair and on the bottom of the combination.
+
+Toyoko Orimoto: And one thing of note, so you can see, on the right plot, the data lines represent the expected result.
+
+Toyoko Orimoto: So from the simulation and the black show, is what we get from the data and the biggest difference we see is in the floyd hydroponic final state where the.
+
+Toyoko Orimoto: The observers of is higher than the expected and this ends up moving our combined result up a bit from the expected and just for comparison to.
+
+Toyoko Orimoto: Make sure we as somewhat of a sanity check, so the Atlas experiment, which is another general purpose, part of a detector performed an analysis of the same final state.
+
+Toyoko Orimoto: Using 2016 data only and a copy so analysis and their upper limit was 7.7 or 5.4 people want so.
+
+Toyoko Orimoto: We were able to improve the sensitivity and this is actually expected because we use the full year the foreign to have data taking and also analyze all three final states of the day w goes on yeah.
+
+Toyoko Orimoto: When you're saying the upper limit orders of magnitude of the standard model version.
+
+Toyoko Orimoto: 97 is this, this is early days for analysis yeah that that big gap.
+
+Toyoko Orimoto: yeah yeah it's yeah so yeah so to kind of go with what Jim was saying, so this red line.
+
+Toyoko Orimoto: On the left, shows the standard model prediction, and you can see our results are pretty far from the standard model and yeah so.
+
+Toyoko Orimoto: that's partially because the dynamics production cross section is so rare It is early days, but it's additionally because this the WW gamma gamma final state, in particular, is a.
+
+Toyoko Orimoto: Not so sensitive but actually we had not checked the cms sensitivity before So this was a check that but yeah how much better, and I will talk about that later and answer that question.
+
+Toyoko Orimoto: Okay, so, in addition to performing the search for the standard model, as I hit production, we can also invoke the effective fields really field theory framework that I was talking about before.
+
+Toyoko Orimoto: Where we have the lagrangian here with additional eft terms and so by linearly combining some of our next leading order samples are able to actually extract upper limits on a variety of capital Lambda points for capital and or.
+
+Toyoko Orimoto: indicates a the magnitude of the himself coupling so in Santa model that's one where we can see what if it were, between minus 30 and 30.
+
+Toyoko Orimoto: And essentially what this allows us to do is scan that parameter based on will be seeing the data and extract results.
+
+Toyoko Orimoto: So this dashed line shows the expected result and the black line shows the observers all from the data.
+
+Toyoko Orimoto: From this analysis, the observed constraint on the excel coupling is is between minus 26 and post 24 times and Center mall also not yet very sensitive as James mentioned, similar to the standard model result.
+
+Toyoko Orimoto: Right and again the observing and train ends up being not a side is the expected us to the full, they had drawn a final check the final stage where we had a higher observes than expected result.
+
+Toyoko Orimoto: So we perform a similar type of scan on one of the bsm parameters which is the sea to parameter.
+
+Toyoko Orimoto: Which is the direct coupling of to higgs boson institute quartz as shown on the plot.
+
+Toyoko Orimoto: And we perform some more technique scan this parameter from minus 3.5 to 3.5 and we are able to constrain this from the data between minus 2.4 and 2.9 somewhat similar in the.
+
+Toyoko Orimoto: case and then, once again, because we use the same events, the same face space in the fully hydroponic final state for these different interpretations, we again have more have a higher observe result than expected, because of the fully header on a final state.
+
+Toyoko Orimoto: Okay, and then the final result that we included is so I was talking about this eft framework and there's five parameters that model it so it wouldn't take too much production power and time to look for every single point in this five dimensional space.
+
+Toyoko Orimoto: And so what we do is we take these 2050 benchmarks, which were optimize to be largely representative of the five be face to face and extract up a result upper limits on these 20 benchmark scenarios.
+
+Toyoko Orimoto: Where, for example, benchmark one corresponds to these five values capital m dot etc I think he's value 7.50.
+
+Toyoko Orimoto: And when performing this search were able to extract observed upper limits on the production cross section of each of these 20 scenarios.
+
+Toyoko Orimoto: And what we get as an observer range between 1.7 and 6.2 P O box 123 point nine expected for the season so see two is the direct coupling with their dimension dimension dimension three offerings.
+
+Toyoko Orimoto: i'm not sure I guess, we could tell by looking at the garage Okay, or even buyers.
+
+Toyoko Orimoto: yeah, so there are number one.
+
+Toyoko Orimoto: That is true, actually, yes, those right.
+
+Toyoko Orimoto: Okay, so that was the one to analysis we performed, and that was the majority of my PhD, but I also did some.
+
+Toyoko Orimoto: was a more than some other work during my PhD which i'll show now so that was the past portion where we use run to data already collected now let's talk a little bit about the present, which is the optimization of the trigger for run through yeah.
+
+Toyoko Orimoto: So you have to go is asking if you want to see if there's any more questions about this section before we move on.
+
+Toyoko Orimoto: So, are there any questions I guess in the room.
+
+Their experimental reasonably good idea.
+
+Toyoko Orimoto: i'm an experimental reason oh yeah really yeah um.
+
+Toyoko Orimoto: I don't know.
+
+Toyoko Orimoto: But I know that it's a it's a very useful method, because it lets us like cast a wide net and look for such a wide range of scenarios that once yeah.
+
+Toyoko Orimoto: It absolutely is I mean, I think the thing that I realized there's been mentioned by the operator to tell you that new trainers have massive smalls.
+
+Toyoko Orimoto: Okay, which is desert.
+
+Toyoko Orimoto: desert and became isolation, so I think you guys have rock solid reason the video feed the good idea here now, just because here is when you have to be, but also because you know betrayal hospitalizations and have observed.
+
+might mention it.
+
+You weren't born analysis, combining all.
+
+Toyoko Orimoto: Right so dave's question is when we perform the analysis, I think, mainly the optimization like choosing the selections do we use all three year here so for sure we get to answer that question in the end we use all four years of data.
+
+Toyoko Orimoto: But in our multivariate analysis techniques, we actually only use the 2017 simulation and what we did is we checked its output from the other two years and we find that there's similar performance.
+
+Toyoko Orimoto: And likewise I think for the fully leptons cup based analysis, the selections use the full data when checking the yields inside bands so mainly 2017 only but i'm a little bit of the whole thing.
+
+Like.
+
+Okay.
+
+Toyoko Orimoto: Your turn.
+
+Darien Wood (he/him): Yes, combinations with the the non at WW channels.
+
+Toyoko Orimoto: Then on each wwe channels.
+
+Darien Wood (he/him): mean you.
+
+Darien Wood (he/him): into other dynamics channels that are not w.
+
+Darien Wood (he/him): That are not gamma gamma WW.
+
+Toyoko Orimoto: Right, so this particular final state has not been included in a combination yet by cms This is something that could happen i'm.
+
+Toyoko Orimoto: Just a comment on it, since it's related there was a combination that was released by cms a few about a month ago for a chap where they included a sub channels, but this one has not been included in a combination yet.
+
+Darien Wood (he/him): So what's the strongest current combination, in terms of ratio standard model cross section.
+
+Toyoko Orimoto: Is some I don't know the exact number but it's something like three times the Center model, so the other channels are so the current public results are a lot more sensitive than the one I just showed.
+
+yeah.
+
+Okay.
+
+Toyoko Orimoto: Are there any other questions before I move on from zoom maybe.
+
+Toyoko Orimoto: OK, so now i'm going to move on to the present section, which is run through email trigger optimization and conditioning.
+
+Toyoko Orimoto: So I mentioned that, during my PhD The sub detector of cms that I focused on was the electromagnetic health perimeter and the aspect of it that I worked on the most was the.
+
+Toyoko Orimoto: trigger so with the email trigger does is it sends energy some cms Level one trigger at a rate of 40 megahertz and just to mention.
+
+Toyoko Orimoto: At cms because we get for tomorrow to conclusions at a rate of 40 megahertz so 40 million times per second.
+
+Toyoko Orimoto: We cannot save the information from all them as the there would be too much data and are on the tiger electronics buffers would fill.
+
+Toyoko Orimoto: Halting the flow of data completely, and so what we do is we trigger on interesting events so if we see something that looks kind of interesting we trigger inside to save it.
+
+Toyoko Orimoto: And so, each of the sub sectors has its own input into the Level one trigger, and so the Eco part is what I focused on.
+
+Toyoko Orimoto: And so, he calls portion of this is producing energy songs that are formed and on detector electronics so that's shown on this front end work on the left.
+
+Toyoko Orimoto: These are sent to a six with your applications are these are composed of application specific integrated circuits, so a six.
+
+Toyoko Orimoto: These are essentially the Eco GCC, which is the trigger concentrator card sense and then shown in the middle and then these are sent to the cms Level one trigger to form.
+
+Toyoko Orimoto: electron photon tab and jet candidate objects and just remembering you know.
+
+Toyoko Orimoto: This is, we want to do this, as well as possible, because if there's a Hickson gamma gamma, this is the first step by which we're seeing Okay, is this are we seeing a photon I might be interested in such as from exam again so it's important to do this right.
+
+Toyoko Orimoto: Right, and so what happens is if the level one trigger identifies an event is interested in a level one except signal is sent to cms to read out the information and the data acquisition.
+
+Toyoko Orimoto: And one note to keep in mind whenever we study the Level one trigger is that the match rate of Level one except this 100 kilohertz.
+
+Toyoko Orimoto: Right, so the question is, you know how can we optimize this for on three so in order to explain that I first have to explain a problem that we have an account.
+
+Toyoko Orimoto: So in the cal battle we have these so normally we have electromagnetic signals, you know, for example, coming from electrons are photons.
+
+Toyoko Orimoto: But we sometimes get these non signal like pulse it's called Spikes and they're actually prevalent so they're caused by rather than electromagnetically interacting particle producing simulation Lee.
+
+Toyoko Orimoto: By direct ionization of the add photos detector.
+
+Toyoko Orimoto: So these are usually isolated very high energy and they're often out of time, with respect to a collision event, and this is because the progenitor of the spike often spends time traveling to the detector before directly striking the PD.
+
+Toyoko Orimoto: And so, this point on the left, shows a simulated timing distribution of the Spikes on the left is in time, and you can see, most of them around zero but there's a long non negligible tails out of time signals.
+
+Toyoko Orimoto: And we actually a level one have a spike tiger that rejects a lot of these Spikes above 16 GB.
+
+Toyoko Orimoto: But not all of them and we've actually updated the working point for run three.
+
+Toyoko Orimoto: On three to try and provide additional rejection, and this is shown in the palm of the right, so this is the spike fraction versus the energy of the signals.
+
+Toyoko Orimoto: And the black line shows the fraction with our run to working point and the orange shows and updated kind of run through working point so basically we're able to lower the contamination somewhat but.
+
+Toyoko Orimoto: The point is that there's still room for improvement there's a lot of Spikes, especially at very high energy, as you can see the contamination is almost 100%, this is a real problem that we have to deal with.
+
+Toyoko Orimoto: Okay Gary do you have a question.
+
+Darien Wood (he/him): What is the sample for the plot on the right, I mean what is your starting sample where it gets to 100% of that high energy.
+
+Toyoko Orimoto: This example.
+
+Darien Wood (he/him): mean like I mean this is just this is all i'm.
+
+Darien Wood (he/him): So this is saying that above at gv all events are Spikes are.
+
+Toyoko Orimoto: At the trigger primitive level near 100%.
+
+Darien Wood (he/him): That okay sure, so this is without any selection to enrich bikes it's just everything coming out of there is almost all Spikes at that at that threshold.
+
+Toyoko Orimoto: Yes.
+
+Darien Wood (he/him): that's right okay okay that's.
+
+Darien Wood (he/him): Right.
+
+Toyoko Orimoto: And so, of course, the reason that that's problematic is because we have a high energy signal that he got we want to know if it's from a particle physics event, rather than this.
+
+Toyoko Orimoto: And so to explain how we can optimize this what i'll explain this how energies these energy centers I mentioned are actually formed on ICO so the basic building blocks to be called.
+
+Toyoko Orimoto: sons are strips, and this is a the energy and one by five channel region, which corresponds to the kneecap vsp or very front end part, so this is.
+
+Toyoko Orimoto: A big part of showing the left, you can see, there are five channels, one for each Crystal and the energies get some and then our combined in a tower of 25 crystals as shown in the front end card on the break.
+
+Toyoko Orimoto: And so, in the UK electronics.
+
+Toyoko Orimoto: way to compute actually a to energy sums in parallel so on the left, we see an example of the decal signal pulse, and you can see, on the diagram there's filter one which gives us energy one but there's also a filter to which computes energy to.
+
+Toyoko Orimoto: Essentially, duplicating the data path and actually until now so during the run to the second filter was never used by ego is just another new feature, and so the potential use of this feature is now under investigation, and this is what I worked on during my thesis.
+
+Toyoko Orimoto: And so the question is, how can we use the second filter to kill more Spikes.
+
+Toyoko Orimoto: And so, our strategy is to tune the two energies which get output from these two filters to have the second filter return an amplitude that's greater for out of time signals.
+
+Toyoko Orimoto: And if it is greater than the first in the electronics, we can choose to kill that signal at Level one or tablet for further processing.
+
+Toyoko Orimoto: And we actually see that this does what we wanted to do and specs so this part on the Left shows again that simulated spike timing distribution.
+
+Toyoko Orimoto: And the different regions show three different working points of this double energy method and what we can see is that there this method is able to in simulation.
+
+Toyoko Orimoto: tag and identify just the very out of time Spikes well, leaving the time alone, and this is what we expected it to be able to do.
+
+Toyoko Orimoto: And so the possible advantages for physics version three of this is that because, first of all, reduce our spike right at Level one.
+
+Toyoko Orimoto: which can reduce our level one rate for physics, you know, because of course we want to increase the number of die higgs events we go with protons and electrons, for example, to increase our data yields and, for example, increase our on to.
+
+Toyoko Orimoto: sensitivity in the end, and, additionally, we could potentially tagged out of time signals using this method, such as those from long the particles which could be used for bsm search.
+
+Toyoko Orimoto: So we estimated the performance of this method on on in time electromagnetic signals and out of time Spikes.
+
+Toyoko Orimoto: By what we call re emulating data, so we took a 2018 data set from cms and because we have all the data save you can actually simulate the electronics processing that, with this new double energy some in place.
+
+Toyoko Orimoto: And well and we did that and ran with it in killing mode so killing the energy if it appears out of time.
+
+Toyoko Orimoto: And it's important to check what happens both to signals and Spikes because we don't want to touch signals, while we feel the Spikes.
+
+Toyoko Orimoto: And so the planet left shows the average percentage of energy subtracted from signals as a function of energy.
+
+Toyoko Orimoto: You can see it ends up being very low for high energy and on the right, the same plot for Spikes or even see a lot of energies killed.
+
+Toyoko Orimoto: And so, this resulted in the following expected performance for transmits energy value is greater than five GB.
+
+Toyoko Orimoto: We found that less than 1% of the energy was subtracted from the titanium signals and more than 95% of the energy was subtracted from out of times spike so it starts to tell us hey like maybe we can really get something useful out of this.
+
+Toyoko Orimoto: And so, this was done with re emulation but will be want to do is to test this feature in data, we want to put it in the electronics and actually see what we get instead of just re emulating and simulating the electronics.
+
+Toyoko Orimoto: And so, this it turned out that this was a good periods of start doing that because last year in 2021 the llc and cms started picking back up again.
+
+Toyoko Orimoto: And so i'm during my PhD for the past year i've actually been the email run coordinator, so I was one of the people responsible for the daily operations of the account and also deciding which features to test.
+
+Toyoko Orimoto: And one thing we decided to test was the subtle energy some with the commissioning data.
+
+Toyoko Orimoto: And right so at the end of us here, we had a few periods of cosmic running this means just from cosmic he wants to know collisions but then in October 2021 we had the llc pilot been in which the llc gave us being splashes and low intensity collisions and i'll explain what that is now.
+
+Toyoko Orimoto: So when I over 2021 cms received beam splashes and beam splash occurs when an llc proton bunch of the lexi lexi is accelerating proton lunches.
+
+Toyoko Orimoto: Is redirected onto a been column major upstream of cms essentially acting like a fixed hard to experiment.
+
+Toyoko Orimoto: And this results in a shower particles mainly beyond that traverse the entire cms detector from one side to the other.
+
+Toyoko Orimoto: And so you can see an image here have a cms been splash event, where the the red represents decal hits and the blue represents he call it, so we get a lot of Keller Keller emitter activity from this.
+
+Toyoko Orimoto: and, additionally, because the particles are trapped take time to travel from one side to the other, the expected timing spread from the beams flesh.
+
+Toyoko Orimoto: And this is of course a perfect time to test email out of times tagging we want to see if we can tag the ones that are out of time, relative to the collision point.
+
+Toyoko Orimoto: So this point on the left, shows the cal times from the beam Spikes you can see, so basically blue means very negatively out of time and red means positively out of time, so that wide range.
+
+Toyoko Orimoto: And this pot on the right, shows the the hits that were tagged when we ran with this in data.
+
+Toyoko Orimoto: And what we found is that the ones on the top, so the very negatively ones were tags out of time, while not tagging the timelines as expected.
+
+Toyoko Orimoto: So this showed us that the mechanism works in eco as expected, and this was actually the first instance of in situation out of time tagging at the local level.
+
+Toyoko Orimoto: And then, just so for fun, a few weeks ago, we had the 10 year anniversary of the higgs discovery and the next day we actually had the official start of LSD run three.
+
+Toyoko Orimoto: And so, this is an image from the cms control room when that happens so there's a lot of people there and it was a.
+
+Toyoko Orimoto: Really fun and basically so now actually as we speak, these past few weeks.
+
+Toyoko Orimoto: The llc has been ramping up the amount of protons collisions being delivered to cms, and so the conditioning is really ramping up and we're going to start to collect a lot of data throughout the rest of the year.
+
+Toyoko Orimoto: And one thing we'll try to do throughout the rest of this year is continue investigating this feature, so that we can improve our physics sensitivity for things like dialogues and other processes.
+
+Toyoko Orimoto: OK, so now, the final portion of my talk is the future where i'll say a word about the phase two prospects for diabetics measurements at the high luminosity LG.
+
+Toyoko Orimoto: Right so during long shutdown three, which is expected to start in 2026 the llc is going to upgrade to the high luminosity he or he he.
+
+Toyoko Orimoto: In order to provide more luminosity to the detectors, and this means we're going to have a lot more data for analysis and actually.
+
+Toyoko Orimoto: The data that will be delivered by the ahl he will comprise about 90% of the total data collected by cms experiment, so we expect a lot lot more data.
+
+Toyoko Orimoto: So what are the pros of this, the first is that, of course, will have a higher luminosity data set with the expected amount of data is about 3000 universe went to Barnes.
+
+Toyoko Orimoto: And this means we'll be able to have more data and more sensitive services, for example, for decades, and we expect to produce actually about 93,006 pairs from these collisions.
+
+Toyoko Orimoto: The kind of course is that there's a huge pile of where a pile of means simultaneous interactions so we're interacting.
+
+Toyoko Orimoto: bunches of protons with more and more protons which means we're going to get a lot more noise, in addition to the pigs.
+
+Toyoko Orimoto: And so, this image here shows the simulation of each elysee event, where you see basically there's a ton of the yellow vertices and a ton of tracks coming from particles.
+
+Toyoko Orimoto: And so, this is something that the experiments well to deal with and cms will actually be go up going major upgrades to be able to deal with this.
+
+Toyoko Orimoto: So, and then I just remind you that at LSE pigs discovery was a major goal and an agency pigs pair production is going to be in major goal, and we want to kind of get an idea of where we expect to stand.
+
+Toyoko Orimoto: And so, while we were analyzing our current data we were simultaneously keeping an eye on the future via projection studies, so this is the computation of expected results at each llc.
+
+Toyoko Orimoto: Using a simulation of our business processes in a simulation of the detector, and so what we did is we performance projection study in the dynamics to WW gamma gamma.
+
+Toyoko Orimoto: And tau tau gamma gamma final states, we followed a very similar analysis strategy to the one to analysis we're on the left, you can see an image of the default on mass.
+
+Toyoko Orimoto: But the signal peaks around 125 and we have a flowing singing background.
+
+Toyoko Orimoto: And we again applied machine learning techniques and actually produced a multi classifier dnn to separate our three physics signatures.
+
+Toyoko Orimoto: And the Aberdeen and scores shown on the right, where we see the black line piquing your one for signal and the background speaking, years ago, and from this projection we get a projected significance of this final state of the higgs of 0.22 Sigma.
+
+Toyoko Orimoto: Right, so far, what.
+
+Toyoko Orimoto: is another 3000 and Sunday yeah yeah so the one note is that there's potential I think it's called the ultimate hw see where we actually might have 4,000% of runs so, but this was with 3000 that's after the full page.
+
+Toyoko Orimoto: With with this final state that's right yeah and without time ago yeah.
+
+Toyoko Orimoto: Right so exactly so just looking into that final state is not going to be enough at hl SEC to discover dynamics.
+
+Toyoko Orimoto: And so, this is why projection cities are performed in additional final states where I show here the current production values for allison cms.
+
+Toyoko Orimoto: For various final states, and you can see, there are values like 0.52 Sigma 2.8 Sigma from the experiments, where you can see the blue the channel that we added.
+
+Toyoko Orimoto: To this production and the point is that we don't expect any single channel to discover day higgs at age diversity.
+
+Toyoko Orimoto: And therefore it's going to be absolutely crucial that we analyze as many channels as many final state today hicks as we can, so that we can combine their sensitivity.
+
+Toyoko Orimoto: And then, just to note with production studies, there are always a few caveats, we have to keep in mind first of all because the detector is not to India in the future, we cannot make.
+
+Toyoko Orimoto: Use of any data driven techniques which were really important in the run to analysis I showed such as the data side and fitting.
+
+Toyoko Orimoto: We also don't yet have any dedicated offline reconstruction optimization so essentially dedicated groups to apply the proper corrections called energy regressions to make sure we get more accurate.
+
+Toyoko Orimoto: energy balance.
+
+Toyoko Orimoto: And in addition we don't have any dedicated analysis seems to fully investigate this future dataset because we can simulate it, but we need to see what's actually there and then see what we can do with it.
+
+Toyoko Orimoto: It was productive.
+
+Toyoko Orimoto: So, as for how do we combine all of them yeah I think i'm.
+
+Toyoko Orimoto: Essentially, the way you try to do it as minimize is check for overlap between them and make sure they're all in like pretty separate face basis, and then you perform a simultaneous fit of the typically the signal strength to the data yeah that hasn't been done.
+
+Toyoko Orimoto: yeah um I don't remember for sure now yeah but yeah.
+
+Toyoko Orimoto: OK, so now summarize Okay, so today so in the past 10 years since we've discovered the higgs boson we've done a lot with it.
+
+Toyoko Orimoto: And what we can do with it is first of all, better understand the standard model of particle physics, and we also have one for bsm beyond the Center model physics.
+
+Toyoko Orimoto: And both of these can be explored with higgs pair production, so the first cms search for dynamics to WW gamma gamma was performed where are observed unexpected upper limits have been extracted on the dynamics cross section of 97 or 52 times the standard model prediction.
+
+Toyoko Orimoto: And we have also extracted constraints on the itself coupling strength between minus 26 and 24 times the standard model on a purely bsn coupling and minus 2.4 2.9 and also on.
+
+Toyoko Orimoto: benchmarks which, ranging from about two to six people Barnes and for performing these analyses, precise and accurate accurate detectors are imperative for taking these funnels states and, in particular, is the cms eat cow is vital for deep dives to WW gamma gamma gamma gamma.
+
+Toyoko Orimoto: So we're also investigating new features for LDC run three, which is out of time tagging a level one to see if we can improve our run three sensitivity.
+
+Toyoko Orimoto: And then, in addition, at the same time we're projecting what we expect to see in the future, and we did this, as I showed for the WW gamma gamma.
+
+Toyoko Orimoto: gamma gamma final status at a Shell or Sue, and so I just want to conclude by saying thank you to my thesis Committee, and thank you to everybody for this.
+
+A closed session, the questions we can be so at that point we'll ask the I mean you won't do it outside.
+
+The body and then we're very last 400 meetings, without at a.
+
+Time and we'll chat very briefly.
+
+Toyoko Orimoto: Okay, so yeah, are there any questions from zoom.
+
+Toyoko Orimoto: or something.
+
+Toyoko Orimoto: yeah you've seen yeah.
+
+Yacine Haddad: yeah I have a quick question.
+
+Yacine Haddad: it's basically a reaction to the question that diane asked earlier about the new waiting.
+
+Yacine Haddad: If you remember, so I was just wondering how you did that are awaiting like which which kinematic variable so you did you use to do that awaiting.
+
+Toyoko Orimoto: yeah I think I have.
+
+Toyoko Orimoto: An idea about that yeah essentially we use the generator level information, using the Di higgs mass and also the angle between the higgs boson and the interaction point.
+
+Toyoko Orimoto: And so you can see yeah So this is the generator level information you used to perform the remaining and we essentially take the ratio of the two between our input sample and our target sample to reward.
+
+Yacine Haddad: Okay, and then you check the agreement from the day the day his last.
+
+Toyoko Orimoto: Yes, so we checked that at some point, and we also check that are dnn output scores look the same.
+
+Okay.
+
+yeah.
+
+Yacine Haddad: Thanks yeah that was That was my question thanks.
+
+Toyoko Orimoto: So I see Barbara has a question.
+
+Toyoko Orimoto: yeah.
+
+Bhargav Joshi: I just wanted to ask regarding the input variables, which used, he said use be scores of the jets.
+
+Bhargav Joshi: know that there were like some papers but there shouldn't see so it's see daggers did you like consider see attacking.
+
+Toyoko Orimoto: We did not consider see tagging at all.
+
+Bhargav Joshi: In this analysis.
+
+Toyoko Orimoto: yeah that's interesting yeah we did not consider.
+
+Okay.
+
+enough.
+
+Toyoko Orimoto: Yet yeah so the we evaluated the importance of the input features using what's called a shapely score.
+
+Toyoko Orimoto: And I don't remember the details super well, but it essentially tries to account for the fact that.
+
+Toyoko Orimoto: The impact of one input variable on the output score might be influenced by the other input features for using so it basically tries to identify the importance really from just one variable and not how it works in conjunction with other input variables.
+
+Toyoko Orimoto: So let's fill the shapely score it comes from some game theory paper when.
+
+Toyoko Orimoto: I think I don't remember for sure if it's just a Python package it's not like.
+
+Toyoko Orimoto: it's not part of her yeah it's separate from.
+
+Toyoko Orimoto: Any of the Games question was just what how did what is this part in my life How did we what did we use to evaluate the importance of the input features.
+
+Toyoko Orimoto: I see bar graph sandwich but I don't know if it's.
+
+Toyoko Orimoto: give another.
+
+Bhargav Joshi: son had one more question regarding the theater so Chad mentioned for out of time takis.
+
+Toyoko Orimoto: Sorry.
+
+Bhargav Joshi: there's bar code shape.
+
+Toyoko Orimoto: Sorry, what was the question I didn't understand.
+
+Sorry.
+
+Bhargav Joshi: The question was regarding the filters that you use for the shape of the energies in detail to tag out of time.
+
+Toyoko Orimoto: So you mean like.
+
+Toyoko Orimoto: This post, for example in the left.
+
+Bhargav Joshi: Yes, I was just wondering if you need to update those filters as a function of luminosity.
+
+Toyoko Orimoto: Yes, so actually.
+
+Toyoko Orimoto: that's something that I didn't talk about today, but one thing we did is so.
+
+Toyoko Orimoto: As we collect more data and he receives more radiation, the pole shapes so the shape reacts to the response we see changes, a little bit because the crystals get distorted and we actually have studied updating the.
+
+Toyoko Orimoto: First of all, the bullshit but also the energy filters to get more accurate energy values into account for the crystal damage does that answer your question.
+
+Bhargav Joshi: yeah and how much does it impact say if you're talking about either run through your luminosity and see.
+
+Toyoko Orimoto: How much is.
+
+Toyoko Orimoto: How much does updating them impact things, or maybe I mean.
+
+Toyoko Orimoto: what's the debris.
+
+Bhargav Joshi: In general yeah what is seen by so you'd be using these triggers a trigger level.
+
+Toyoko Orimoto: That, so the updated.
+
+Bhargav Joshi: Energy filter parameters yes.
+
+Toyoko Orimoto: and actually before we do that we need to fully evaluate its impact.
+
+Toyoko Orimoto: On the Level one trigger but yeah then for this to energy, some we would eventually want to implement it at cms and actually for that we need to perform more studies of how they would affect Level one quantities.
+
+Bhargav Joshi: I see okay.
+
+Bhargav Joshi: Thanks.
+
+Another question.
+
+So why don't we jump to the next point where we.
+
+Could you make a burnout room for a couple.
+
+Toyoko Orimoto: Years co host.
+
+Oh.
+
+Toyoko Orimoto: OK, I can hear.
+
+You just kind of a reset.
+
+we'll.
+
+See you on the phone.
+
+Toyoko Orimoto: Maybe we can use like our newsletter meeting.
+
+Toyoko Orimoto: has changed on zoom like used to be able to make breakout rooms, but now I don't see a way to do that you want it, we can't figure something out you want to just may be using during that we think I just think I just leave and operated since effectively.
+
+Toyoko Orimoto: yeah so okay i'm sorry we thought we could make a breakout room or something has changed about zoom and we don't have that option.
+
+Toyoko Orimoto: I don't know if somebody knows him better later soon better than I do, but I guess if the other audience Members can leave and just the thesis committee can stay.
+
+Toyoko Orimoto: More options if you're sharing screen, and let me see.
+
+Toyoko Orimoto: hold on.
+
+Toyoko Orimoto: I guess, we can also support more more.
+
+Oh yeah so according to that first.
+
