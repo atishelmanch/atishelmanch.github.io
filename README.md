@@ -12,10 +12,15 @@ Hello! My name is Abraham (Abe) Tishelman-Charny, and I am interested in physics
 
 ## Public material 
 
-- **27 July 2022: Thesis defense** (coming soon):
+- **27 July 2022 Thesis defense: Probing the Higgs via pair production in the two W boson two photon channel at CMS: Past, present, and future** (coming soon):
+
+<a href="https://www.youtube.com/watch?v=jSFuoSsFUSE" target="_blank">Thesis defense Zoom session recording</a> <br />
+<a href="Documents/Thesis/27_July_2022_Abraham_Tishelman_Charny_Thesis_Defense.pdf" target="_blank">Thesis defense slides</a> <br />
 
 Link to slides <br />
 Link to dissertation <br />
+
+Documents/Thesis/27_July_2022_Abraham_Tishelman_Charny_Thesis_Defense.pdf
 
 - **16 May 2022: QFT research seminar. Institute for theoretical physics, [University of Munster](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2022.html):** <br /> <br />
 <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
