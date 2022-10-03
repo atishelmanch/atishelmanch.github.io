@@ -8,7 +8,11 @@
    title="Me"
    src="Documents/Abraham_Tishelman-Charny_photo.jpg">
 
-Hello! My name is Abraham (Abe) Tishelman-Charny, and I am interested in physics, collaboration, and programming. I am currently finishing my PhD in experimental particle physics with Northeastern University, during which I have been based at CERN working as a part of the CMS collaboration. I will soon be starting a postdoctoral position at Brookhaven National Laboratory, to work as a part of the ATLAS collaboration. The purpose of this page is to store and share material related to my research. 
+Hello! My name is Abraham (Abe) Tishelman-Charny, and I am interested in physics, collaboration, and programming. I am currently a postdoctoral researcher with Brookhaven National Laboratory [[ref.]](https://www.bnl.gov/staff/atishelma) (2022-present), working as a part of the ATLAS collaboration on Higgs pair production and the assembly and testing of the ATLAS strip tracker upgrade (ITk). 
+
+I obtained my PhD in experimental particle physics from Northeastern University (2016-2022), during most of which I was based at CERN in Geneva, Switzerland, working as a part of the CMS collaboration. During my PhD at CERN, I led the effort in analyzing a previously unsearched for di-Higgs final state at CMS, and coordinated the running activities of the CMS ECAL (Electromagnetic Calorimeter) during LS2 and the start of LHC Run 3 as ECAL Run Coordinator. I also performed various studies dedicated towards optimizing the CMS ECAL trigger for LHC Run 3.
+
+The purpose of this page is to store and share material related to my research. 
 
 ## Public material 
 
