@@ -27,9 +27,9 @@ The purpose of this page is to store and share material related to my research.
     - <a href="https://www.youtube.com/watch?v=jSFuoSsFUSE" target="_blank">Thesis defense Zoom session recording</a> <br />
     - <a href="https://www.youtube.com/watch?v=iuks4KnG5Qg&t=0s" target="_blank">In person recording</a> <br />
 
-- **16 May 2022: QFT research seminar. Institute for theoretical physics, [University of Munster](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2022.html):** <br /> <br />
-<a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
-[Seminar minutes](Documents/Munster_Seminar_Minutes.md)
+- **16 May 2022: QFT research seminar. Institute for theoretical physics, [University of Munster](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2022.html):** <br /> 
+  - Slides: <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
+  - Minutes: [Seminar minutes](Documents/Munster_Seminar_Minutes.md)
 
 ## Useful links 
 
