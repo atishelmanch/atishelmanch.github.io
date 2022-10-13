@@ -36,14 +36,17 @@ Email: `abraham.tishelman.charny@cern.ch`
 ## Publications and public results
 
 - **15 March 2022: Prospects for HH measurements in the WWγγ and ττγγ final states in proton-proton collisions at √s=14 TeV at the High Luminosity-LHC** <br />
-  - [http://cds.cern.ch/record/2804003](http://cds.cern.ch/record/2804003)
+
+  - [CERN document server](http://cds.cern.ch/record/2804003)
 
 - **14 October 2019: Optimizing the Performance of the CMS ECAL Trigger for Runs 2 and 3 of the CERN LHC** <br />
+
   -  [PDF](https://arxiv.org/pdf/1910.06232.pdf) 
   -  [arXiv: 1910.06232 [physics.ins-det]](https://arxiv.org/abs/1910.06232)
 
 ## Useful links 
 
+- [GitHub repo for this page](https://github.com/atishelmanch/atishelmanch.github.io)
 - [Example of github pages markdown customization](https://stackoverflow.com/questions/47104807/github-pages-homepage-remove-link-at-the-top~)
 - [Github pages document guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 
