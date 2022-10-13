@@ -14,6 +14,8 @@ I obtained my PhD in experimental particle physics from Northeastern University 
 
 The purpose of this page is to store and share material related to my research. 
 
+Email: `abraham.tishelman.charny@cern.ch`
+
 ## Public Seminars and Talks
 
 - **27 July 2022 Thesis defense: Probing the Higgs via pair production in the two W boson two photon channel at CMS: Past, present, and future**: <br /> 
