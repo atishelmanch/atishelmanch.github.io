@@ -14,7 +14,7 @@ I obtained my PhD in experimental particle physics from Northeastern University 
 
 The purpose of this page is to store and share material related to my research. 
 
-## Public material 
+## Public Seminars and Talks
 
 - **27 July 2022 Thesis defense: Probing the Higgs via pair production in the two W boson two photon channel at CMS: Past, present, and future**: <br /> 
 
@@ -31,6 +31,15 @@ The purpose of this page is to store and share material related to my research.
   - Slides: <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
   - Minutes: [Seminar minutes](Documents/Munster_Seminar_Minutes.md)
 
+## Publications and public results
+
+- **15 March 2022: Prospects for HH measurements in the WWγγ and ττγγ final states in proton-proton collisions at √s=14 TeV at the High Luminosity-LHC** <br />
+  - [http://cds.cern.ch/record/2804003](http://cds.cern.ch/record/2804003)
+
+- **14 October 2019: Optimizing the Performance of the CMS ECAL Trigger for Runs 2 and 3 of the CERN LHC** <br />
+  -  [PDF](https://arxiv.org/pdf/1910.06232.pdf) 
+  -  [arXiv: 1910.06232 [physics.ins-det]](https://arxiv.org/abs/1910.06232)
+
 ## Useful links 
 
 - [Example of github pages markdown customization](https://stackoverflow.com/questions/47104807/github-pages-homepage-remove-link-at-the-top~)
@@ -40,3 +49,7 @@ The purpose of this page is to store and share material related to my research.
 
 - [Link to CV](Documents/Abraham_Tishelman_Charny_CV.pdf)
 - [Linkedin](https://www.linkedin.com/in/abraham-tishelman-charny-a4b977159/)
+- [GitHub](https://github.com/atishelmanch)
+- [GitLab](https://gitlab.cern.ch/atishelm)
+- [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Tishelman-Charny%2C+A)
+- [InspireHEP](https://inspirehep.net/authors/1684176)
