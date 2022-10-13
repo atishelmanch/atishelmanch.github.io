@@ -1,6 +1,6 @@
 # Abraham Tishelman-Charny's website 
 
-<link rel="shortcut icon" type="image/x-icon" href="Documents/RabidBirdFavicon.ico?">
+<link rel="shortcut icon" type="image/x-icon" href="RabidBirdFavicon.ico">
 
 <img style="float: right; margin-left: 20px;" 
    width="250" 
