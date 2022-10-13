@@ -1,7 +1,3 @@
-<head>
-   <link rel="shortcut icon" type="image/x-icon" href="RabidBirdFavicon.ico">
-</head>
-
 # Abraham Tishelman-Charny's website 
 
 <img style="float: right; margin-left: 20px;" 
@@ -60,3 +56,8 @@ Email: `abraham.tishelman.charny@cern.ch`
 - [GitLab](https://gitlab.cern.ch/atishelm)
 - [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Tishelman-Charny%2C+A)
 - [InspireHEP](https://inspirehep.net/authors/1684176)
+
+
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="RabidBirdFavicon.ico">
+</head>
