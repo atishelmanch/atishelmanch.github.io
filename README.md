@@ -33,6 +33,11 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 ## Publications and public results
 
+- **9 November 2022: (Presented by Chu Wang on behalf of the CMS collaboration): CMS di-Higgs searches in final states with two photons** <br />
+  
+  - Includes the first public instance of the CMS Run 2 HH to WWγγ analysis!
+  - [Slides - Presented at the Higgs 2022 conference](https://indico.cern.ch/event/1086716/contributions/5049855/attachments/2543988/4380753/Higgs2022.pdf)
+
 - **15 March 2022: Prospects for HH measurements in the WWγγ and ττγγ final states in proton-proton collisions at √s=14 TeV at the High Luminosity-LHC** <br />
 
   - [CERN document server](http://cds.cern.ch/record/2804003)
