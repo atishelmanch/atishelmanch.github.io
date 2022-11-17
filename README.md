@@ -14,11 +14,8 @@ The purpose of this page is to store and share material related to my research.
 
 Email: `abraham.tishelman.charny@cern.ch`
 
-<h3 align="center"> <a href="https://github.com/atishelmanch/atishelmanch.github.io/blob/main/Pages/Seminars-and-talks.md">Public Seminars and Talks</a>
-</h3>
-
-<h3 align="center"> <a href="https://github.com/atishelmanch/atishelmanch.github.io/blob/main/Pages/Publications-and-public-results.md">Publications and public results</a> 
-</h3>
+## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
+## [Publications and public results](Pages/Publications-and-public-results.md)
 
 ## Useful links 
 
