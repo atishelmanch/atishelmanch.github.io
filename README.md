@@ -30,8 +30,17 @@ Email: `abraham.tishelman.charny@cern.ch`
 - **16 May 2022: QFT research seminar. Institute for theoretical physics, [University of Munster](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2022.html):** <br /> 
   - Slides: <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
   - Minutes: [Seminar minutes](Documents/Munster_Seminar_Minutes.md)
+  
+- **7 April 2022: FPD Seminar, SLAC National Accelerator Laboratory:** <br /> 
+  - Slides: [Searching for Higgs Pair Production with the CMS Electromagnetic Calorimeter](https://indico.slac.stanford.edu/event/7185/attachments/1571/4122/7_April_2022_Abraham_Tishelman_Charny_SLAC_Seminar.pdf) <br />
+  - [Indico](https://indico.slac.stanford.edu/event/7185/)
 
 ## Publications and public results
+
+- **11 November 2022: Search for nonresonant Higgs boson pair production in the WWγγ channel in pp collisions at √s=13 TeV** <br />
+
+  - [CERN document server](https://cds.cern.ch/record/2840773?ln=en)
+  - [CMS Physics Analysis Summary PDF](https://cds.cern.ch/record/2840773/files/HIG-21-014-pas.pdf)
 
 - **9 November 2022: (Presented by Chu Wang on behalf of the CMS collaboration): CMS di-Higgs searches in final states with two photons** <br />
   
