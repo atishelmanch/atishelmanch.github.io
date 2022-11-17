@@ -28,10 +28,12 @@ Email: `abraham.tishelman.charny@cern.ch`
     - <a href="https://www.youtube.com/watch?v=iuks4KnG5Qg&t=0s" target="_blank">In person recording</a> <br />
 
 - **16 May 2022: QFT research seminar. Institute for theoretical physics, [University of Munster](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2022.html):** <br /> 
+
   - Slides: <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
   - Minutes: [Seminar minutes](Documents/Munster_Seminar_Minutes.md)
   
 - **7 April 2022: FPD Seminar, SLAC National Accelerator Laboratory:** <br /> 
+
   - Slides: [Searching for Higgs Pair Production with the CMS Electromagnetic Calorimeter](https://indico.slac.stanford.edu/event/7185/attachments/1571/4122/7_April_2022_Abraham_Tishelman_Charny_SLAC_Seminar.pdf) <br />
   - [Indico](https://indico.slac.stanford.edu/event/7185/)
 
