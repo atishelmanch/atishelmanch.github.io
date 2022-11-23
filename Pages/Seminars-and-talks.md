@@ -4,7 +4,7 @@
 
   - Documents: <br /> 
     - <a href="http://cds.cern.ch/record/2824863" target="_blank">Dissertation on CERN Document Server</a> <br />
-    - <a href="Documents/Thesis/27_July_2022_Abraham_Tishelman_Charny_Thesis_Defense.pdf" target="_blank">Thesis defense slides</a> <br />
+    - <a href="../Documents/Thesis/27_July_2022_Abraham_Tishelman_Charny_Thesis_Defense.pdf" target="_blank">Thesis defense slides</a> <br />
     - <a href="https://github.com/atishelmanch/Thesis" target="_blank">Files used to produce Thesis PDF</a> <br />
   
   - Recordings: <br /> 
@@ -13,8 +13,8 @@
 
 - **16 May 2022: QFT research seminar. Institute for theoretical physics, [University of Munster](https://www.uni-muenster.de/Physik.TP/en/teaching/courses/research_seminar_quantum_field_theory_ss2022.html):** <br /> 
 
-  - Slides: <a href="Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
-  - Minutes: [Seminar minutes](Documents/Munster_Seminar_Minutes.md)
+  - Slides: <a href="../Documents/16_May_2022_Higgs_Pair_Production_An_Experimental_Overview.pdf" target="_blank">Higgs Pair Production: An experimental overview</a> <br />
+  - Minutes: [Seminar minutes](../Documents/Munster_Seminar_Minutes.md)
   
 - **7 April 2022: FPD Seminar, SLAC National Accelerator Laboratory:** <br /> 
 
