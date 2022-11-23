@@ -17,13 +17,8 @@ Email: `abraham.tishelman.charny@cern.ch`
 ## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
 ## [Publications and public results](Pages/Publications-and-public-results.md)
 
-## Useful links 
 
-- [GitHub repo for this page](https://github.com/atishelmanch/atishelmanch.github.io)
-- [Example of github pages markdown customization](https://stackoverflow.com/questions/47104807/github-pages-homepage-remove-link-at-the-top~)
-- [Github pages document guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
-
-## Other
+## Profiles
 
 - [Link to CV](Documents/Abraham_Tishelman_Charny_CV.pdf)
 - [Linkedin](https://www.linkedin.com/in/abraham-tishelman-charny-a4b977159/)
