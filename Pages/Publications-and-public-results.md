@@ -1,5 +1,14 @@
 # Publications and public results
 
+- **6 December 2022: ECAL trigger performance in Run 2 and improvements for Run 3** <br />
+  - [Article PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2374/1/012088/pdf)
+  - [Full conference](https://iopscience.iop.org/issue/1742-6596/2374/1)
+  - Reference information:
+    - [Journal of Physics: Conference Series 2374 (2022) 012088](https://iopscience.iop.org/article/10.1088/1742-6596/2374/1/012088)
+    - Phys.: Conf. Ser. 2374 012088
+    - doi:10.1088/1742-6596/2374/1/012088
+    - [Export citation and abstract](https://iopscience.iop.org/export?type=article&doi=10.1088/1742-6596/2374/1/012088&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract)
+
 - **11 November 2022: Search for nonresonant Higgs boson pair production in the WWγγ channel in pp collisions at √s=13 TeV** <br />
 
   - [CERN document server](https://cds.cern.ch/record/2840773?ln=en)
