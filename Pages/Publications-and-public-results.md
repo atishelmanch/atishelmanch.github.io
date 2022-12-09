@@ -13,6 +13,7 @@
 
   - [CERN document server](https://cds.cern.ch/record/2840773?ln=en)
   - [CMS Physics Analysis Summary PDF](https://cds.cern.ch/record/2840773/files/HIG-21-014-pas.pdf)
+  - [BibTex citation](https://cds.cern.ch/record/2840773/export/hx?ln=en)
 
 - **9 November 2022: (Presented by Chu Wang on behalf of the CMS collaboration): CMS di-Higgs searches in final states with two photons** <br />
   
