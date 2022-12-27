@@ -1,4 +1,4 @@
-# Abraham Tishelman-Charny, PhD
+# Abraham Tishelman-Charny - PhD
 
 <img style="float: right; margin-left: 20px;" 
    width="250" 
