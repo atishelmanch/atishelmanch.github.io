@@ -17,14 +17,6 @@ Email: `abraham.tishelman.charny@cern.ch`
 ## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
 ## [Publications and public results](Pages/Publications-and-public-results.md)
 
-<figure>
-<img style="border:1px solid black;" 
-     alt="Start of LHC Run 3" 
-     title="Start of LHC Run 3"
-     src="Documents/SymmetryMagazineCover.png">
-  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Sarah Charley: Symmetry Magazine]</a> </figcaption>
-</figure>
-
 ## Profiles
 
 - [Link to CV](Documents/Abraham_Tishelman_Charny_CV.pdf)
@@ -34,6 +26,25 @@ Email: `abraham.tishelman.charny@cern.ch`
 - [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Tishelman-Charny%2C+A)
 - [InspireHEP](https://inspirehep.net/authors/1684176)
 
+## Pictures
+
+<figure>
+<img style="border:1px solid black;" 
+     alt="Start of LHC Run 3" 
+     title="Start of LHC Run 3"
+     src="Documents/SymmetryMagazineCover.png">
+  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Sarah Charley: Symmetry Magazine]</a> </figcaption>
+</figure>
+
+<br> </br>
+
+<figure>
+<img style="border:1px solid black;" 
+     alt="CMS during LS2" 
+     title="CMS during LS2"
+     src="Documents/MeAndCMS.png">
+  <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
+</figure>
 
 <head>
    <link rel="shortcut icon" type="image/x-icon" href="RabidBirdFavicon.ico">
