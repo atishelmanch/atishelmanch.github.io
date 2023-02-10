@@ -18,10 +18,11 @@ Email: `abraham.tishelman.charny@cern.ch`
 ## [Publications and public results](Pages/Publications-and-public-results.md)
 
 <figure>
-<img alt="Start of LHC Run 3" 
-   title="Start of LHC Run 3"
-   src="Documents/SymmetryMagazineCover.png">
-  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Symmetry Magazine]</a> </figcaption>
+<img style="border:1px solid black;" 
+     alt="Start of LHC Run 3" 
+     title="Start of LHC Run 3"
+     src="Documents/SymmetryMagazineCover.png">
+  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Sarah Charley: Symmetry Magazine]</a> </figcaption>
 </figure>
 
 ## Profiles
