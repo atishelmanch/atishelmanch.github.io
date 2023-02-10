@@ -1,4 +1,4 @@
-# Abraham Tishelman-Charny - PhD
+# Abraham Tishelman-Charny, PhD
 
 <img style="float: right; margin-left: 20px;" 
    width="250" 
@@ -36,7 +36,7 @@ Email: `abraham.tishelman.charny@cern.ch`
   <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Sarah Charley: Symmetry Magazine]</a> </figcaption>
 </figure>
 
-<br> </br>
+<br> <br>
 
 <figure>
 <img style="border:1px solid black;" 
