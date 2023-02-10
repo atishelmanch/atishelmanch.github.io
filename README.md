@@ -18,7 +18,7 @@ Email: `abraham.tishelman.charny@cern.ch`
 <img alt="Start of LHC Run 3" 
    title="Start of LHC Run 3"
    src="Documents/SymmetryMagazineCover.png">
-  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="" target="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Symmetry Magazine]</a> </figcaption>
+  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Symmetry Magazine]</a> </figcaption>
 </figure>
 
 ## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
