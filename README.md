@@ -8,11 +8,14 @@
 
 Hello! My name is Abraham (Abe) Tishelman-Charny, and I am interested in physics, collaboration, and programming. I am currently a postdoctoral researcher with Brookhaven National Laboratory [[ref.]](https://www.bnl.gov/staff/atishelma) (2022-present), working as a part of the ATLAS collaboration on Higgs pair production and the assembly and testing of the ATLAS strip tracker upgrade (ITk). 
 
-I obtained my PhD in experimental particle physics from Northeastern University (2016-2022), during most of which I was based at CERN in Geneva, Switzerland, working as a part of the CMS collaboration. During my PhD at CERN, I led the effort in analyzing a previously unsearched for di-Higgs final state at CMS, and coordinated the running activities of the CMS ECAL (Electromagnetic Calorimeter) during LS2 and the start of LHC Run 3 as ECAL Run Coordinator (see below). I also performed various studies dedicated towards optimizing the CMS ECAL trigger primitive generation for LHC Run 3.
+I obtained my PhD in experimental particle physics from Northeastern University (2016-2022), during most of which I was based at CERN in Geneva, Switzerland, working as a part of the CMS (Compact Muon Solenoid) collaboration. During my PhD at CERN, I led the analysis effort of the first LHC (Large Hadron Collider) Run 2 search of Higgs pair production in the two W boson, two photon final state at CMS, and coordinated the running activities of the CMS ECAL (Electromagnetic Calorimeter) during LS2 (Long Shutdown 2) and the start of LHC Run 3 as ECAL Run Coordinator (see below). I also performed various studies dedicated towards optimizing the CMS ECAL trigger primitive generation for LHC Run 3.
 
 The purpose of this page is to store and share material related to my research. 
 
 Email: `abraham.tishelman.charny@cern.ch`
+
+## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
+## [Publications and public results](Pages/Publications-and-public-results.md)
 
 <figure>
 <img alt="Start of LHC Run 3" 
@@ -20,9 +23,6 @@ Email: `abraham.tishelman.charny@cern.ch`
    src="Documents/SymmetryMagazineCover.png">
   <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room <a href="https://www.symmetrymagazine.org/article/wait-didnt-the-lhc-already-restart">[Symmetry Magazine]</a> </figcaption>
 </figure>
-
-## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
-## [Publications and public results](Pages/Publications-and-public-results.md)
 
 ## Profiles
 
