@@ -15,3 +15,5 @@
 | The inital setup command for using the central detector software. | `setupATLAS` | `cmsenv` |
 | The subdetector responsible for measuring the luminosity delivered to the detector. | LUCID | BRIL | 
 | The run coordination shifter who oversees the daily run operations. | Run Manager | Run Field Manager | 
+| During HL-LHC, the **first** level of the trigger. | L0 | L1 |
+| During HL-LHC, the **second** level of the trigger. | Event Filter | HLT |
