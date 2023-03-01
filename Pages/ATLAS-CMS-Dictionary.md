@@ -1,6 +1,12 @@
 
 [ATLAS](https://atlas.cern/) and [CMS](https://cms.cern/collaboration) are both very cool physics collaborations, whose detectors are based at the [CERN](https://www.home.cern/) [LHC](https://www.home.cern/science/accelerators/large-hadron-collider). Their organizations are structurally similar, leading to groups and positions which have similar roles but somewhat different names. The purpose of the table below is to translate the same type of group/position between the two collaborations. <br> <br>
 
+ATLAS            |  CMS
+:-------------------------:|:-------------------------:
+![](ATLAS_eventDisplay.jpeg)  |  ![](CMS_eventDisplay.jpeg)
+
+<br> <br>
+
 | Description | ATLAS | CMS | 
 | ----------- | ----------- | ----------- |
 | The group facilitating a certain physics topic| PA group | PAG | 
