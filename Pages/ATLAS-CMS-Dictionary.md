@@ -6,3 +6,4 @@
 | EB (Editorial board) | ARC (Analysis review committee) | 
 | Athena | CMSSW | 
 | `setupATLAS` | `cmsenv` |
+| Run Manager | Run Field Manager | 
