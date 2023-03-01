@@ -16,6 +16,7 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 ## [Public Seminars and Talks](Pages/Seminars-and-talks.md)
 ## [Publications and public results](Pages/Publications-and-public-results.md)
+## [ATLAS / CMS dictionary](Pages/ATLAS-CMS-Dictionary.md)
 
 ## Profiles
 
