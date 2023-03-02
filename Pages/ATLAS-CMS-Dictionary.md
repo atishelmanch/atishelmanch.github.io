@@ -21,3 +21,4 @@
 | The run coordination shifter who oversees the daily run operations. | Run Manager | Run Field Manager | 
 | During HL-LHC, the **first** level of the trigger. | L0 | L1 |
 | During HL-LHC, the **second** level of the trigger. | Event Filter | HLT |
+| Credit given to collaborators to keep track of their detector work, typically required for authorship. | OTP (Operation Task planner) | EPR (Experimental Physics responsibilities) |
