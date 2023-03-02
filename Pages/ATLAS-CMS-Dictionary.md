@@ -1,5 +1,5 @@
 
-[ATLAS](https://atlas.cern/) and [CMS](https://cms.cern/collaboration) are both very cool physics collaborations, whose detectors are based at the [CERN](https://www.home.cern/) [LHC](https://www.home.cern/science/accelerators/large-hadron-collider). Their organizations are structurally similar, leading to groups and positions which have similar roles but somewhat different names. The purpose of the table below is to translate the same type of group/position between the two collaborations. <br> <br>
+[ATLAS](https://atlas.cern/) and [CMS](https://cms.cern/collaboration) are both very cool physics collaborations, whose detectors are based at the [CERN](https://www.home.cern/) [LHC](https://www.home.cern/science/accelerators/large-hadron-collider). Their organizations are structurally similar, leading to groups, positions, and terms which have similar functions but somewhat different names. The purpose of the table below is to translate the names of the similar these similarly functioning terms between the two collaborations. <br> <br>
 
 <img style="" width="500" alt="ATLAS" title="ATLAS" src="../Documents/ATLAS_eventDisplay.jpeg">      <img style="" width="500" alt="CMS" title="CMS" src="../Documents/CMS_eventDisplay.jpeg"> 
 
