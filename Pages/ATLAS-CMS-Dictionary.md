@@ -17,6 +17,7 @@
 | A small committee which reviews a physics analysis. | EB (Editorial board) | ARC (Analysis review committee) | 
 | The central software repository used to simulate the detector and its reconstruction algorithms. This software is crucial for processing data and simulation the same way for eventual comparison. | Athena | CMSSW | 
 | The inital setup command for using the central detector software. | `setupATLAS` | `cmsenv` |
+| Specific HLT triggers targetting different physics objects at LHC | Trigger chain | Trigger path |
 | The subdetector responsible for measuring the luminosity delivered to the detector. | LUCID | BRIL | 
 | The run coordination shifter who oversees the daily run operations. | Run Manager | Run Field Manager | 
 | During HL-LHC, the **first** level of the trigger. | L0 | L1 |
