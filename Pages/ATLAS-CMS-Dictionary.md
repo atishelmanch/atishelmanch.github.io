@@ -16,6 +16,9 @@
 | The group which optimizes the tagging and calibration performance for different types of physics objects, and is responsible for the physics use, impact, and results of the object. | CP group (Combined performance group) | POG (Physics object group) | 
 | A small committee which reviews a physics analysis. | EB (Editorial board) | ARC (Analysis review committee) | 
 | Internal documentation with extra details for a given analysis. | INT note (Internal note) | AN (Analysis Note) |
+| Circulation of a document draft through the entire collaboration for feedback. | ATLAS circulation | CWR (Collaboration Wide Review) |
+| Group responsible for the preparation of data for physics analysis. Roughly the first "offline" step of data processing after "online" collection by the detector. | Data Preparation | PPD (Physics Performance and Datasets) |
+| A public document released by the collaboration to make a result public, without submitting to a peer reviewed journal (typically to make a result public for a conference). | CONF note (Conference note) | PAS (Physics Analysis Summary) |
 | The central software repository used to simulate the detector and its reconstruction algorithms. This software is crucial for processing data and simulation the same way for eventual comparison. | Athena | CMSSW | 
 | The inital setup command for using the central detector software. | `setupATLAS` | `cmsenv` |
 | Specific HLT triggers targetting different physics objects at LHC | Trigger chain | Trigger path |
