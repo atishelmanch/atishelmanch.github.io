@@ -48,6 +48,8 @@ Email: `abraham.tishelman.charny@cern.ch`
   <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
 </figure>
 
+<br> <br>
+
 <figure>
 <img style="border:1px solid black;" 
      alt="FCC week 2023 ECR session" 
