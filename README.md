@@ -48,6 +48,14 @@ Email: `abraham.tishelman.charny@cern.ch`
   <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
 </figure>
 
+<figure>
+<img style="border:1px solid black;" 
+     alt="FCC week 2023 ECR session" 
+     title="FCC week 2023 ECR session"
+     src="Documents/ECRSession.png">
+  <figcaption>FCC week in London, July 2023, Early Career Researchers session. <a href="https://www.digital-science.com/tldr/article/cern-2070-the-next-generation/">[John Hammersley: Digital Science]</a> </figcaption>
+</figure>
+
 <head>
    <link rel="shortcut icon" type="image/x-icon" href="RabidBirdFavicon.ico">
 </head>
