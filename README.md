@@ -52,6 +52,16 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 <figure>
 <img style="border:1px solid black;" 
+     alt="US FCC workshop at BNL" 
+     title="US FCC workshop at BNL"
+     src="Documents/USFCC_workshop_1.jpg">
+  <figcaption>April 2023: First US-FCC workshop at BNL, physics session. </figcaption>
+</figure>
+
+<br> <br>
+
+<figure>
+<img style="border:1px solid black;" 
      alt="FCC week 2023 ECR session" 
      title="FCC week 2023 ECR session"
      src="Documents/London2023_ECR.png">
