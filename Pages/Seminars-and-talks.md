@@ -1,4 +1,9 @@
-# Public Seminars and Talks
+# Seminars and Talks
+
+- **31 August 2023: ATLAS legacy Run 2 HH to yybb, [Multi-Boson Interactions 2023](https://indico.cern.ch/event/1263917/timetable/?view=standard)** <br /> 
+
+  - Slides: <a href="https://indico.cern.ch/event/1263917/contributions/5475488/attachments/2706665/4700853/August_2023_MBI_yybb.pdf" target="_blank">ATLAS legacy Run 2 HH to yybb</a> <br />
+  - Recording: <a href="https://indico.cern.ch/event/1263917/contributions/5475488/attachments/2706665/4700853/August_2023_MBI_yybb.pdf" target="_blank">Presentation recording</a> <br />
 
 - **27 July 2022 Thesis defense: Probing the Higgs via pair production in the two W boson two photon channel at CMS: Past, present, and future**: <br /> 
 
