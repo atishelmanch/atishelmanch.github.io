@@ -1,5 +1,13 @@
 # Publications and public results
 
+- **6 March 2024: The quality control programme for ITk strip tracker module assembly** <br />
+  - [Article page](https://iopscience.iop.org/article/10.1088/1748-0221/19/03/C03015)
+  - [PDF on arXiv](https://arxiv.org/abs/2401.17054)
+  - Reference information:
+    - Citation: A. Tishelman-Charny on behalf of the ATLAS ITk collaboration 2024 JINST 19 C03015
+    - DOI 10.1088/1748-0221/19/03/C03015
+    - [Export citation and abstract](https://iopscience.iop.org/export?type=article&doi=10.1088/1748-0221/19/03/C03015&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract)
+
 - **6 December 2022: ECAL trigger performance in Run 2 and improvements for Run 3** <br />
   - [Article PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2374/1/012088/pdf)
   - [Full conference](https://iopscience.iop.org/issue/1742-6596/2374/1)
