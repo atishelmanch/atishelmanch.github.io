@@ -6,7 +6,7 @@
 
 - **21 September 2023: Searching for beauty with beauty in the Higgs sector (Seminar), [Particle Physics Seminars at BNL](https://indico.bnl.gov/event/20453/)** <br /> 
 
-  - Slides: <a href="https://indico.bnl.gov/event/20453/" target="_blank">Indico page</a> <br />
+  - Slides: <a href="../Documents/7_March_2024_Searching_For_Beauty_With_Beauty_In_The_Higgs_Sector_Seminar.pdf" target="_blank">Seminar slides</a> <br />
   - Indico page: <a href="https://indico.bnl.gov/event/20453/" target="_blank">Indico page</a> <br />
 
 - **31 August 2023: ATLAS legacy Run 2 HH to yybb, [Multi-Boson Interactions 2023](https://indico.cern.ch/event/1263917/timetable/?view=standard)** <br /> 
