@@ -42,6 +42,14 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 <figure>
 <img style="border:1px solid black;" 
+     alt="ATLAS in January 2024" 
+     title="ATLAS in January 2024"
+     src="Documents/Me_And_ATLAS.jpg">
+  <figcaption>The ATLAS detector (and myself) in January 2024</figcaption>
+</figure>
+
+<figure>
+<img style="border:1px solid black;" 
      alt="CMS during LS2" 
      title="CMS during LS2"
      src="Documents/MeAndCMS.png">
