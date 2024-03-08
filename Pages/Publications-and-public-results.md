@@ -6,7 +6,7 @@
   - Reference information:
     - Citation: A. Tishelman-Charny on behalf of the ATLAS ITk collaboration 2024 JINST 19 C03015
     - DOI 10.1088/1748-0221/19/03/C03015
-    - [Export citation and abstract](https://iopscience.iop.org/export?type=article&doi=10.1088/1748-0221/19/03/C03015&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract)
+    - [Export citation and abstract](https://iopscience.iop.org/export?type=article&doi=10.1088/1748-0221/19/03/C03015&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract) <br />
 
 - **6 December 2022: ECAL trigger performance in Run 2 and improvements for Run 3** <br />
   - [Article PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2374/1/012088/pdf)
