@@ -1,5 +1,14 @@
 # Seminars and Talks
 
+- **7 March 2024: Searching for beauty with beauty in the Higgs sector (Colloquium), [Union College, Physics & Astronomy Department, Colloquium series](https://www.union.edu/physics-and-astronomy/colloquium-series)** <br /> 
+
+  - Slides: <a href="../Documents/7_March_2024_Searching_For_Beauty_With_Beauty_In_The_Higgs_Sector.pdf" target="_blank">Colloquium slides</a> <br />
+
+- **21 September 2023: Searching for beauty with beauty in the Higgs sector (Seminar), [Particle Physics Seminars at BNL](https://indico.bnl.gov/event/20453/)** <br /> 
+
+  - Slides: <a href="https://indico.bnl.gov/event/20453/" target="_blank">Indico page</a> <br />
+  - Indico page: <a href="https://indico.bnl.gov/event/20453/" target="_blank">Indico page</a> <br />
+
 - **31 August 2023: ATLAS legacy Run 2 HH to yybb, [Multi-Boson Interactions 2023](https://indico.cern.ch/event/1263917/timetable/?view=standard)** <br /> 
 
   - Slides: <a href="https://indico.cern.ch/event/1263917/contributions/5475488/attachments/2706665/4700853/August_2023_MBI_yybb.pdf" target="_blank">ATLAS legacy Run 2 HH to yybb</a> <br />
