@@ -1,5 +1,9 @@
 # Seminars and Talks
 
+- **2 April 2024: Inner tracking for inner beauty, [SLAC, Fundamental Physics Directorate, Seminar series](https://indico.slac.stanford.edu/event/8828/)** <br /> 
+
+  - Slides: <a href="../Documents/2_April_2024_InnerTrackingForInnerBeauty.pdf" target="_blank">Seminar slides</a> <br />
+
 - **7 March 2024: Searching for beauty with beauty in the Higgs sector (Colloquium), [Union College, Physics & Astronomy Department, Colloquium series](https://www.union.edu/physics-and-astronomy/colloquium-series)** <br /> 
 
   - Slides: <a href="../Documents/7_March_2024_Searching_For_Beauty_With_Beauty_In_The_Higgs_Sector.pdf" target="_blank">Colloquium slides</a> <br />
