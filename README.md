@@ -40,6 +40,25 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 <br> <br>
 
+<div style="display: flex; justify-content: space-around;">
+  <figure>
+    <img style="border:1px solid black;" 
+         alt="ATLAS in January 2024" 
+         title="ATLAS in January 2024"
+         src="Documents/Me_And_ATLAS.jpg">
+    <figcaption>The ATLAS detector (and myself) in January 2024</figcaption>
+  </figure>
+
+  <figure>
+    <img style="border:1px solid black;" 
+         alt="CMS during LS2" 
+         title="CMS during LS2"
+         src="Documents/MeAndCMS.png">
+    <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
+  </figure>
+</div>
+
+
 <figure>
 <img style="border:1px solid black;" 
      alt="ATLAS in January 2024" 
@@ -57,6 +76,14 @@ Email: `abraham.tishelman.charny@cern.ch`
 </figure>
 
 <br> <br>
+
+<figure>
+<img style="border:1px solid black;" 
+     alt="2nd US FCC workshop at BNL" 
+     title="2nd US FCC workshop at BNL"
+     src="Documents/USFCC_workshop_2.jpg">
+  <figcaption>April 2024: Second US-FCC workshop at MIT, plenary lightning talk session. </figcaption>
+</figure>
 
 <figure>
 <img style="border:1px solid black;" 
