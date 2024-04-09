@@ -41,7 +41,7 @@ Email: `abraham.tishelman.charny@cern.ch`
 <br> <br>
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="height: 600px;">
+  <figure style="height: 300px;">
     <img style="border:1px solid black; height: 100%;" 
          alt="CMS during LS2" 
          title="CMS during LS2"
@@ -49,7 +49,7 @@ Email: `abraham.tishelman.charny@cern.ch`
     <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
   </figure>
    
-  <figure style="height: 600px;">
+  <figure style="height: 300px;">
     <img style="border:1px solid black; height: 100%;" 
          alt="ATLAS in January 2024" 
          title="ATLAS in January 2024"
@@ -61,7 +61,7 @@ Email: `abraham.tishelman.charny@cern.ch`
 <br> <br>
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="height: 600px;">
+  <figure style="height: 300px;">
     <img style="border:1px solid black; height: 100%;" 
          alt="US FCC workshop at BNL" 
          title="US FCC workshop at BNL"
@@ -69,7 +69,7 @@ Email: `abraham.tishelman.charny@cern.ch`
     <figcaption>April 2023: First US-FCC workshop at BNL, physics session. </figcaption>
      
   </figure>
-  <figure style="height: 600px;">
+  <figure style="height: 300px;">
     <img style="border:1px solid black; height: 100%;" 
          alt="2nd US FCC workshop at BNL" 
          title="2nd US FCC workshop at BNL"
