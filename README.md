@@ -61,6 +61,16 @@ Email: `abraham.tishelman.charny@cern.ch`
 <br> <br>
 
 <figure>
+<img style="border:1px solid black;" 
+         alt="US HEP advocacy trip" 
+         title="US HEP advocacy trip"
+         src="Documents/HEP_Advocacy_Trip_2024.jpg">
+  <figcaption>April 2024: US HEP advocacy trip. </figcaption>
+</figure>
+
+<br> <br>
+
+<figure>
 <img style="width: 400px;" 
          alt="2nd US FCC workshop at BNL" 
          title="2nd US FCC workshop at BNL"
