@@ -1,5 +1,10 @@
 # Seminars and Talks
 
+- **22 October 2024: Higgs measurements from CMS and ATLAS, [PIC 2024, Plenary talk](https://indico.cern.ch/event/1253590/contributions/5849131/)** <br /> 
+
+  - Slides (Transitions): <a href="https://indico.cern.ch/event/1414470/contributions/6172142/attachments/2952182/5189850/22_October_2024_Higgs_measurements_from_ATLAS_and_CMS_Transitions.pdf" target="_blank">Seminar slides</a> <br />
+  - Slides (No transitions): <a href="https://indico.cern.ch/event/1414470/contributions/6172142/attachments/2952182/5190171/NoTransitions_22_October_2024_Higgs_measurements_from_ATLAS_and_CMS.pdf" target="_blank">Seminar slides</a> <br />
+
 - **2 April 2024: Inner tracking for inner beauty, [SLAC, Fundamental Physics Directorate, Seminar series](https://indico.slac.stanford.edu/event/8828/)** <br /> 
 
   - Slides: <a href="../Documents/2_April_2024_InnerTrackingForInnerBeauty.pdf" target="_blank">Seminar slides</a> <br />
