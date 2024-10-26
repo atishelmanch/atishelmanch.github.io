@@ -72,6 +72,16 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 <figure>
 <img style="width: 400px;" 
+         alt="PIC 2024" 
+         title="PIC 2024"
+         src="Documents/PIC2024.jpg">
+  <figcaption>October 2024: PIC 2024, Plenary session. </figcaption>
+</figure>
+
+<br> <br>
+
+<figure>
+<img style="width: 400px;" 
          alt="2nd US FCC workshop at BNL" 
          title="2nd US FCC workshop at BNL"
          src="Documents/USFCC_workshop_2.jpg">
