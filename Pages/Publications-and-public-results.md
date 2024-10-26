@@ -1,5 +1,14 @@
 # Publications and public results
 
+- **3 October 2024: An extreme thermal cycling reliability test of ATLAS ITk Strips
+barrel modules** <br />
+  - [Article page](https://iopscience.iop.org/article/10.1088/1748-0221/19/10/P10002)
+  - [PDF](https://iopscience.iop.org/article/10.1088/1748-0221/19/10/P10002/pdf)
+  - Reference information:
+    - Citation: A. Tishelman-Charny et al 2024 JINST 19 P10002
+    - DOI 10.1088/1748-0221/19/10/P10002
+    - [Export citation and abstract](https://iopscience.iop.org/export?type=article&doi=10.1088/1748-0221/19/10/P10002&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract) <br />
+
 - **6 March 2024: The quality control programme for ITk strip tracker module assembly** <br />
   - [Article page](https://iopscience.iop.org/article/10.1088/1748-0221/19/03/C03015)
   - [PDF on arXiv](https://arxiv.org/abs/2401.17054)
