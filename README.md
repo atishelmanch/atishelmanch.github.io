@@ -41,7 +41,7 @@ Email: `abraham.tishelman.charny@cern.ch`
 <br> <br>
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="height: 400px;">
+  <figure style="height: 300px;">
     <img style="border:1px solid black; height: 100%;" 
          alt="CMS during LS2" 
          title="CMS during LS2"
@@ -49,7 +49,7 @@ Email: `abraham.tishelman.charny@cern.ch`
     <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
   </figure>
    
-  <figure style="height: 400px;">
+  <figure style="height: 300px;">
     <img style="border:1px solid black; height: 100%;" 
          alt="ATLAS in January 2024" 
          title="ATLAS in January 2024"
@@ -62,20 +62,20 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 <figure>
 <img style="border:1px solid black;" 
-         alt="US HEP advocacy trip" 
-         title="US HEP advocacy trip"
-         src="Documents/HEP_Advocacy_Trip_2024.jpg">
-  <figcaption>April 2024: US HEP advocacy trip. </figcaption>
+         alt="PIC 2024" 
+         title="PIC 2024"
+         src="Documents/PIC2024.jpg">
+  <figcaption>October 2024: PIC 2024, Plenary session. </figcaption>
 </figure>
 
 <br> <br>
 
 <figure>
-<img style="width: 400px;" 
-         alt="PIC 2024" 
-         title="PIC 2024"
-         src="Documents/PIC2024.jpg">
-  <figcaption>October 2024: PIC 2024, Plenary session. </figcaption>
+<img style="border:1px solid black;" 
+         alt="US HEP advocacy trip" 
+         title="US HEP advocacy trip"
+         src="Documents/HEP_Advocacy_Trip_2024.jpg">
+  <figcaption>April 2024: US HEP advocacy trip. </figcaption>
 </figure>
 
 <br> <br>
