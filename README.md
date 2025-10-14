@@ -20,7 +20,6 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 ## Profiles
 
-- [Link to CV](Documents/Abraham_Tishelman_Charny_CV.pdf)
 - [Linkedin](https://www.linkedin.com/in/abraham-tishelman-charny-a4b977159/)
 - [GitHub](https://github.com/atishelmanch)
 - [GitLab](https://gitlab.cern.ch/atishelm)
