@@ -33,7 +33,7 @@ Email: `abraham.tishelman.charny@cern.ch`
 <img style="border:1px solid black;" 
          alt="Higgs 2026" 
          title="Higgs 2026"
-         src="Documents/FCC_Workshop">
+         src="Documents/FCC_Workshop.png">
   <figcaption>November 2026: FCC-ee tracking and PID workshop </figcaption>
 </figure>
 
