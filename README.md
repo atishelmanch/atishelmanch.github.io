@@ -31,6 +31,36 @@ Email: `abraham.tishelman.charny@cern.ch`
 
 <figure>
 <img style="border:1px solid black;" 
+         alt="Higgs 2026" 
+         title="Higgs 2026"
+         src="Documents/FCC_Workshop">
+  <figcaption>November 2026: FCC-ee tracking and PID workshop </figcaption>
+</figure>
+
+<br> <br>
+
+<figure>
+<img style="border:1px solid black;" 
+         alt="Higgs 2026" 
+         title="Higgs 2026"
+         src="Documents/Higgs2026.png">
+  <figcaption>October 2026: Higgs 2026 </figcaption>
+</figure>
+
+<br> <br>
+
+<figure>
+<img style="border:1px solid black;" 
+         alt="CPAD 2026" 
+         title="CPAD 2026"
+         src="Documents/CPAD2026.jpeg">
+  <figcaption>October 2024: CPAD 2026 </figcaption>
+</figure>
+
+<br> <br>
+
+<figure>
+<img style="border:1px solid black;" 
      alt="Start of LHC Run 3" 
      title="Start of LHC Run 3"
      src="Documents/SymmetryMagazineCover.png">
