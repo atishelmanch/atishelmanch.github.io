@@ -54,7 +54,7 @@ Email: `abraham.tishelman.charny@cern.ch`
          alt="CPAD 2026" 
          title="CPAD 2026"
          src="Documents/CPAD2026.jpeg">
-  <figcaption>October 2024: CPAD 2026 </figcaption>
+  <figcaption>October 2026: CPAD 2026 </figcaption>
 </figure>
 
 <br> <br>
